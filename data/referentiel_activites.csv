@@ -1,0 +1,3095 @@
+CO_RUB;activite;top_zu
+10;avocats postulant à la cour;0
+20;médecins andrologues;0
+30;médecins cancérologues;0
+40;cures thermales;1
+50;gîtes;0
+60;chambres d'hôtes;0
+70;conseils départementaux, conseils régionaux;1
+79;location de bateaux;1
+80;transport touristique en autocars;1
+81;location de canoës-kayaks;0
+82;location de planches à voile;0
+83;fermes pédagogiques;1
+84;fitness (clubs);0
+86;pêche (pratique);0
+87;flamenco (cours);0
+88;flippers;1
+89;apprentissage;0
+90;médecins oncologues;0
+100;conserveries alimentaires;1
+110;planification familiale (centres, information);0
+120;chauffeurs d'automobiles;1
+140;bijouterie;0
+160;photographes industriels;1
+170;photographes publicitaires;1
+220;centres autos, entretien rapide;1
+230;centres d'appels (prestataires);1
+240;fruits et légumes frais (expédition, exportation);0
+250;abat-jour;0
+260;montgolfières;1
+270;acier : produits sidérurgiques, transformés;1
+280;représentants;0
+290;agences, agents commerciaux;1
+300;Internet : fournisseurs d'accès;0
+310;Internet : création de sites, hébergement;1
+320;télécommunications (consultants);0
+330;médecine du travail;0
+350;abat-jour et fournitures (fabrication);0
+360;apprentissage, formation professionnelle;0
+370;parcs animaliers, parcs zoologiques;1
+380;médecins échographistes;0
+390;médecins : médecine manuelle, ostéopathie;0
+400;médecins sexologues;0
+410;médecins tabacologues;0
+420;dialyse (centres);0
+430;matériel d'occasion (achat, revente);1
+440;matériel d'occasion pour professionnels;0
+450;jeux vidéo;0
+460;palettes de manutention;1
+470;plages privées;0
+480;lycées d'enseignement général et technologique privés;0
+490;arts graphiques, arts plastiques (cours);0
+500;lycées professionnels privés;0
+510;lycées d'enseignement général et technologique publics;0
+520;lycées professionnels publics;0
+530;lycées agricoles publics;0
+540;lycées agricoles privés;0
+550;maisons familiales rurales;1
+556;clubs de full contact;0
+557;gîtes d'étape;0
+558;fermes, gîtes équestres;0
+559;associations culturelles, de loisirs;0
+560;chirurgiens de la main;0
+561;athlétisme (clubs);0
+562;planches à voile, surfs, kitesurfs (fabrication, gros);0
+563;bateaux de plaisance (construction);1
+564;remontées mécaniques, téléphériques (exploitation);0
+567;cafés, bars;0
+568;résidences étudiantes;1
+569;salles de concerts, de spectacles;1
+570;médecins : pathologie du sommeil;0
+571;sports aériens (clubs);0
+572;maisons de retraite médicalisées;1
+573;centres commerciaux;0
+574;sports d'équipe (clubs);0
+576;mécanique marine;1
+577;stations météo;1
+578;sports nautiques (clubs);0
+579;motocross;1
+580;médecins : soins palliatifs;0
+581;musculation (salles);0
+583;centres de loisirs pour enfants;0
+584;stades;0
+586;supérettes;0
+587;centres de vacances pour enfants;0
+588;chasse (pratique);0
+589;théâtres;0
+590;médecins mésothérapeutes;0
+591;musicothérapie;0
+592;voile (écoles);0
+594;cours de chant;0
+596;cours de chinois;0
+597;paellas à emporter;0
+598;cours de français;0
+599;parcours aventure;1
+600;vol libre (clubs);0
+601;cours de guitare;0
+602;cours de mathématiques;0
+603;cours de piano;0
+604;paris sportifs en ligne;0
+606;cours de portugais;0
+608;cours de russe;0
+609;cours de théâtre;0
+610;avocats communautaires exerçant sous leur titre d'origine;0
+611;cours de violon;0
+612;cours d'espagnol;0
+613;cours d'italien;0
+614;cours d'oenologie;0
+616;couscous à emporter;0
+618;cours de couture;0
+620;associations de gestion et de comptabilité;0
+621;dancings;0
+623;cours de danse africaine;0
+624;permis bateaux;1
+627;pianos-bars;0
+628;pilates (cours);0
+629;deltaplane (clubs);0
+631;dîners-spectacles;0
+632;électroménager discount;1
+633;informatique discount;0
+634;formation professionnelle;0
+636;DVD, CD d'occasion;0
+637;écoles d'architecture;0
+638;écoles d'art;0
+639;foyers pour jeunes travailleurs;0
+642;grands magasins;0
+643;écoles d'auxiliaires de puériculture;0
+644;gymnases;0
+646;cours de danse classique;0
+647;cours de danse country;0
+648;discount alimentaire;0
+649;cours de danse de salon;0
+651;cours de danse modern jazz;0
+652;cours de danse orientale;0
+656;écoles de cirque;0
+657;pizzas à emporter;0
+659;plongée sous-marine (clubs);0
+661;matériel de plongée sous-marine;1
+662;poney-clubs;0
+663;cours de poterie;0
+664;aïkido (clubs);0
+666;promenades en mer;0
+667;aquagym;0
+668;aquariums (sites);0
+669;qi gong (cours);0
+672;randonnées en quads;0
+673;randonnées en traîneaux;0
+674;écoles de design;0
+676;randonnées équestres;0
+677;artothèques;0
+678;écoles de l'image et du son;0
+679;agences de casting;0
+681;enseignement notarial;0
+682;auberges;0
+683;restaurants africains;0
+684;écoles de stylisme;0
+686;restaurants algériens;0
+688;restaurants alsaciens;0
+689;écoles d'infirmières;0
+690;éclairage industriel;1
+692;restaurants américains;0
+693;écoles d'ingénieurs;0
+694;bars à tapas;0
+696;restaurants antillais;0
+698;bars de nuit;0
+699;écoles hôtelières;0
+700;éclairage public;1
+701;restaurants argentins;0
+702;bars-tabac;0
+703;restaurants arméniens;0
+704;clubs d'escalade;0
+706;restaurants asiatiques;0
+708;clubs de base-ball;0
+709;restaurants avec terrasse;0
+710;plaques de plâtre;1
+711;restaurants basques;0
+712;restaurants bio;0
+713;restaurants brésiliens;0
+714;restaurants cambodgiens;0
+716;restaurants casher;0
+717;restaurants chinois;0
+719;restaurants coréens;0
+720;plaquistes;1
+721;restaurants corses;0
+722;bases de loisirs;1
+723;restaurants cubains;0
+724;restaurants dansants;0
+726;restaurants de pâtes;0
+727;restaurants espagnols;0
+728;restaurants éthiopiens;0
+730;portes automatiques;1
+731;restaurants étoilés, notés;0
+732;restaurants gastronomiques;0
+734;restaurants grecs;0
+736;restaurants grill;0
+737;restaurants halal;0
+739;restaurants indiens;0
+740;portes de garage;1
+741;bébés nageurs;0
+742;restaurants iraniens;0
+743;restaurants italiens;0
+744;boxe anglaise (clubs);0
+746;restaurants japonais;0
+747;boxe française (clubs);0
+748;clubs de boxe thaï;0
+749;brasseries;0
+750;revêtements de façades (matériaux);1
+751;brunchs;0
+752;cactus;0
+753;cafétérias;0
+754;campings caravaning;0
+756;campings 1*;0
+757;campings 2*;0
+758;campings 3*;0
+759;campings 4*;0
+760;arrosage (installation, maintenance);1
+761;campings à la ferme;0
+762;campings avec piscine;0
+763;campings municipaux;0
+764;campings naturistes;0
+766;capoeira (académies);0
+767;cours de cartonnage;0
+768;centres aquatiques;1
+769;cinémathèques;0
+770;arrosage (matériel);1
+771;circuits autos;1
+772;circuits motos;1
+773;cours de claquettes;0
+774;restaurants libanais;0
+776;clubs canins;0
+777;restaurants marocains;0
+778;restaurants mauriciens;0
+779;restaurants mexicains;0
+780;bijouterie (transformation, réparation);0
+781;restaurants moules frites;0
+782;clubs échangistes;0
+783;restaurants pakistanais;0
+784;clubs libertins;0
+786;restaurants polonais;0
+787;restaurants de poissons, fruits de mer;0
+788;restaurants portugais;0
+789;restaurants réunionnais;0
+790;puéricultrices;0
+791;restaurants routiers;0
+792;restaurants russes;0
+793;restaurants savoyards;0
+794;restaurants du Sud-Ouest;0
+796;restaurants thaïlandais;0
+797;restaurants tibétains;0
+798;restaurants tunisiens;0
+799;restaurants turcs;0
+800;véhicules industriels (pièces, accessoires);1
+801;restaurants végétariens;0
+802;restaurants vietnamiens;0
+803;guitares;0
+804;clubs seniors;0
+808;gymnastique enfants (clubs);0
+809;cours d'allemand;0
+810;clubs de gymnastique rythmique;0
+811;tables d'hôtes;0
+812;cours d'anglais;0
+813;taekwondo (clubs);0
+814;cours d'arabe;0
+816;taï-chi-chuan;0
+817;cours de batterie;0
+818;cours d'hip-hop;0
+819;tango (cours);0
+820;hockey subaquatique (clubs);0
+822;télécopieurs;1
+824;hockey sur glace  (clubs);0
+826;tir à l'arc;0
+827;hôtels 1*;0
+828;traiteurs antillais;0
+829;traiteurs casher;0
+830;hôtels 2*;0
+831;traiteurs chinois;0
+832;hôtels 3*;0
+834;hôtels 4*;0
+836;hôtels 5*;0
+838;hôtels avec piscine;0
+839;cours de roller;0
+840;hôtels restaurants;0
+841;traiteurs grecs;0
+842;hôtels spa;0
+846;instituts universitaires;0
+847;traiteurs halal;0
+848;internats d'excellence;0
+849;jujitsu (clubs);0
+850;organisation de safari;1
+851;kick-boxing (clubs);0
+852;kitesurf (clubs);0
+853;salles de jeux laser;0
+854;clubs de kung-fu;0
+856;livraison de couscous;0
+857;traiteurs italiens;0
+858;livraison de crêpes, de galettes;0
+859;traiteurs japonais;0
+860;traiteurs libanais;0
+861;livraison de paellas;0
+862;traiteurs portugais;0
+863;livraison de pizzas;1
+864;livraison de sushis;0
+866;cours de tricot;0
+867;salsa (cours);0
+868;location de DVD;0
+869;universités privées;0
+870;sandwicheries;0
+871;universités publiques;0
+872;vêtements dégriffés;0
+873;location de groupes électrogènes;1
+876;scrapbooking;0
+877;water-polo (clubs);0
+878;location de matériel de puériculture;1
+879;self-defense (clubs);0
+880;organisation de week-ends;1
+881;location de matériel médical;1
+882;ski nautique, wakeboard (clubs);0
+883;location de quads;1
+886;snack-bars;0
+888;location de snowboards;0
+889;sushis à emporter;0
+890;lycée international;0
+893;clubs de football en salle;0
+897;écoles de commerce;0
+898;saladeries;0
+899;friteries;0
+901;vétérinaires : anatomie pathologique;0
+902;vétérinaires : chirurgie des animaux de compagnie;0
+903;vétérinaires : dermatologie;0
+904;vétérinaires : médecine interne des animaux de compagnie;0
+906;vétérinaires : ophtalmologie;0
+908;vétérinaires : santé et productions animales en régions chaudes;0
+909;vétérinaires : sciences de l'animal de laboratoire;0
+910;agences de mannequins enfants;1
+911;location de pelleteuses;1
+912;location de tractopelles;1
+913;sablières;1
+917;pétrochimie;0
+918;chambres froides;1
+919;résines, silicones;1
+920;métrologie;1
+921;conception, réalisation de packaging;1
+922;création graphique;1
+923;scieries mobiles;1
+924;mécano-soudure;1
+927;aciéries;0
+930;secrétariat médical;1
+931;location de salles de réunion;1
+932;distributeurs de boissons;1
+933;distributeurs de café;1
+934;plastification;1
+936;photogravure;1
+938;librairies d'occasion;0
+939;librairies papeteries;0
+940;librairies ésotériques;0
+941;librairies religieuses;0
+942;librairies anglaises;0
+943;librairies jeunesse;0
+944;librairies scolaires;0
+946;agendas;0
+947;vétérinaires : imagerie médicale;0
+950;web design;1
+951;casses automobiles (destruction de véhicules, pièces détachées);1
+952;automobiles (pièces détachées d'occasion);1
+953;cliniques vétérinaires;0
+954;associations tutélaires;0
+956;vétérinaires : médecine interne des animaux de compagnie, cardiologie;0
+958;jeux vidéo d'occasion;0
+959;batteries motos;1
+960;livraison de fioul;1
+961;livraison de bois;1
+962;restaurants panoramiques;0
+963;art-thérapie;0
+967;ball-trap;0
+968;cours de calligraphie;0
+969;cours de dessin;0
+970;abattoirs;1
+971;cours de peinture;0
+972;thé dansant;0
+973;éveil musical;0
+974;achats, vente de vinyles;0
+976;music-halls;0
+977;motos d'occasion;1
+978;jouets en bois;0
+980;découpe bois;1
+982;épiceries anglaises;0
+984;bois de charpente;1
+986;huiles, graisses industrielles (collecte, recyclage, valorisation);1
+987;patinage (clubs);0
+988;psychothérapie (pratiques hors du cadre réglementé);0
+989;dépannage de climatisation;1
+990;dépannage d'antennes;1
+991;dépannage de chauffage électrique;1
+992;dépannage de chauffe-eau;1
+993;dépannage de systèmes d'alarme, de surveillance;1
+994;dépannage d'imprimantes;1
+996;escaliers béton;1
+997;escaliers métalliques;1
+998;portage salarial (sociétés);1
+999;transporteurs à câbles (fabrication, installation);0
+1000;psychothérapeutes;0
+1001;viticulteurs bio;1
+1002;épiceries solidaires;0
+1003;crêperies;0
+1004;pizzerias;0
+1006;fermes auberges;0
+1008;location de vélos;0
+1009;location de motos, de scooters;1
+1010;cyclisme (clubs);0
+1011;natation (clubs);0
+1012;aviron (clubs);0
+1013;flocage bâtiment;1
+1014;flocage textile;1
+1017;coquillages, crustacés;0
+1018;chiropracteurs;0
+1019;médiation judiciaire;0
+1021;courtiers en travaux;1
+1022;batteries automobiles;1
+1023;badminton (clubs);0
+1024;basket-ball (clubs);0
+1027;football (clubs);0
+1028;handball (clubs);0
+1029;rugby (clubs);0
+1030;tennis de table (clubs);0
+1031;pelote basque (clubs);0
+1032;volley-ball (clubs);0
+1033;avocats spécialistes en procédure d'appel;0
+1034;sages-femmes échographistes;0
+1036;orthoprothésistes;0
+1037;orthopédistes-orthésistes;0
+1038;campings 5*;0
+1039;enduits;1
+1040;clubs de krav-maga;0
+1041;avocats postulant à la cour;0
+1042;chirurgiens ORL et cervico-facial;0
+1043;addictologie (centres de prévention, de soins);0
+1044;centres de radiologie, d'imagerie médicale;0
+1046;chaudières au fioul;1
+1047;chaudières à gaz;1
+1048;chaudières à condensation;1
+1049;clubs de catch;0
+1050;clubs de lutte;0
+1051;coachs sportifs;1
+1052;commissaires-priseurs de ventes volontaires;0
+1053;contrôle technique de motos;1
+1054;crèches parentales;0
+1057;doubles vitrages;1
+1058;drainage (travaux);1
+1059;entretien de chaudières;1
+1060;fermes agricoles;0
+1061;fermes avicoles;0
+1062;fermes bio;0
+1064;hôpitaux psychiatriques;0
+1066;listes de mariage;1
+1067;location de maisons;1
+1068;ordres professionnels;0
+1069;syndicats professionnels;1
+1070;mezzanines;1
+1071;montres (vente);0
+1072;mutuelles étudiantes;0
+1073;peinture de décoration;1
+1074;peinture en bâtiment;1
+1076;planchers chauffants;1
+1077;sols vinyles;1
+1078;véhicules utilitaires;1
+1079;ventes aux enchères publiques : opérateurs de ventes volontaires de meubles;1
+1080;vétérinaires : anatomie pathologique;0
+1081;vétérinaires : chirurgie des animaux de compagnie;0
+1082;vétérinaires : dermatologie;0
+1083;vétérinaires : élevage et pathologie des équidés;0
+1084;vétérinaires : imagerie médicale;0
+1086;vétérinaires : médecine interne des animaux de compagnie;0
+1087;vétérinaires : médecine interne des animaux de compagnie, cardiologie;0
+1088;vétérinaires : ophtalmologie;0
+1089;vétérinaires : santé et productions animales en régions chaudes;0
+1090;vétérinaires : sciences de l'animal de laboratoire;0
+1091;avocats spécialistes en droit de l'arbitrage;0
+1092;avocats spécialistes en droit des associations et des fondations;0
+1093;avocats spécialistes en droit des assurances;0
+1094;avocats spécialistes en droit bancaire et boursier;0
+1096;avocats spécialistes en droit commercial, des affaires et de la concurrence;0
+1097;avocats spécialistes en droit du crédit et de la consommation;0
+1098;avocats spécialistes en droit du dommage corporel;0
+1099;avocats spécialistes en droit des étrangers et de la nationalité;0
+1100;avocats spécialistes en droit de la famille, des personnes et de leur patrimoine;0
+1101;avocats spécialistes en droit de la fiducie;0
+1102;avocats spécialistes en droit fiscal et droit douanier;0
+1103;avocats spécialistes en droit des garanties, des sûretés et des mesures d'exécution;0
+1104;avocats spécialistes en droit international et de l'Union européenne;0
+1106;avocats spécialistes en droit des nouvelles technologies, de l'informatique et de la communication;0
+1108;avocats spécialistes en droit de la santé;0
+1109;avocats spécialistes en droit de la sécurité sociale et de la protection sociale;0
+1111;avocats spécialistes en droit du sport;0
+1112;avocats spécialistes en droit des transports;0
+1113;avocats spécialistes en droit du travail;0
+1132;kinésiologie;0
+1160;bornes électriques;1
+1161;chaudières électriques;1
+1162;chefs à domicile;1
+1163;épithésistes;0
+1164;géotechnique;1
+1166;caves à vin;1
+1167;décoration événementielle;1
+1168;gazon synthétique;1
+1169;réparation téléphone portable;1
+1170;location de terrains;1
+1171;fumage de saumon;1
+1172;vins mousseux;1
+1173;fabrication de parasols;1
+1174;vins doux;1
+1176;vente de parquets;1
+1177;vétérinaires : stomatologie et dentisterie;0
+1178;diagnostic de surfaces;1
+1179;dépannage électronique;1
+1180;abattoirs de volailles;0
+1181;location de monte-meubles;1
+1182;convoyeurs pour charges;1
+1183;manutention aéroportuaire;1
+1184;systèmes de palettisation;1
+1186;location de matériel de manutention et levage;1
+1187;location d'échafaudages, d'échelles;1
+1188;location de nacelles, d'élévateurs;1
+1189;location de camions bennes;1
+1192;transport de 2 roues;1
+1193;transport national;1
+1194;location de camions avec chauffeur;1
+1196;transport en vrac;1
+1197;transport de matières dangereuses;1
+1198;communication corporate;1
+1199;agences média;1
+1200;régies internet;1
+1201;marketing des services;1
+1202;marketing industriel;1
+1203;marketing opérationnel;1
+1204;marketing mobile;1
+1206;transport de produits médicaux;0
+1208;cartes grises (prestataires);0
+1209;baby-foot;1
+1210;coordonnateurs SSI;1
+1211;location de déshumidificateurs;1
+1212;vélos avec chauffeur;0
+1213;brûleurs industriels;1
+1226;mandataires immobiliers;1
+1227;menuiserie mixte;0
+1228;administrateurs de biens;1
+1229;syndics de copropriétés;1
+1230;auberges de jeunesse;0
+1231;démoussage, traitement des toitures (entreprises);1
+1232;aquabiking;0
+1233;bureaux d'études béton;0
+1234;charpentes industrielles;0
+1236;vente, installation de chauffage solaire;0
+1237;chauffe-eau thermodynamique;0
+1238;cloisons professionnelles;0
+1239;cloisons vitrées;0
+1240;clôtures décoratives;0
+1241;éclairage led;0
+1242;emballages écologiques, biodégradables;0
+1243;emballages industriels;0
+1244;films plastiques, films alimentaires;0
+1246;génie climatique;0
+1247;infiltrométrie;0
+1248;isolants minces;0
+1249;isolation industrielle;0
+1250;panneaux isolants;0
+1251;location de chaufferies mobiles;0
+1252;location de matériel de nettoyage;0
+1253;motorisation de fermetures;0
+1254;mutuelles d'entreprises;0
+1256;nettoyage après sinistre;0
+1257;production, vente de papiers recyclés;0
+1258;peinture anti-corrosion;0
+1259;plafonds chauffants;0
+1260;portails industriels;0
+1261;portes coulissantes;0
+1262;programmistes;0
+1263;rénovation de chauffage;0
+1264;rénovation d'escaliers;0
+1266;réparation de volets roulants;0
+1268;self garages;0
+1269;stabilisation des sols;0
+1270;articles de tennis;0
+1271;toitures végétalisées;0
+1272;volets roulants solaires;0
+1273;matériel de voirie;0
+1274;articles pour vapoteurs;0
+1276;générateurs d'azote;0
+1277;générateurs d'oxygène;0
+1278;restauration rapide;0
+1284;location de vêtements professionnels;0
+1286;matériel forestier;0
+1287;magasins de thé;0
+1288;maisons de santé;0
+1289;planning familial (centres, information);0
+1290;dentistes : chirurgiens-dentistes spécialistes en chirurgie orale;0
+1291;services à la personne;0
+1292;vente, installation d'ascenseurs privatifs;0
+1293;entreprises de déplombage;0
+1294;contrôle technique d'engins de levage et de manutention;0
+1296;garages à domicile;0
+1297;gestion de paie externalisée;0
+1298;détection de réseaux enterrés;0
+1299;casses poids lourds (destruction de véhicules);0
+1300;fournitures pour prothèses orthopédiques;0
+1304;marketing de contenu;0
+1306;conseil éditorial;0
+1310;transport : formalités douanes;0
+1312;tabacologie;0
+1313;concepteurs, rédacteurs;0
+1314;correcteurs, relecteurs;0
+1317;médecine traditionnelle chinoise;0
+1318;herboristeries;0
+1319;éducateurs spécialisés;0
+1320;équicie;0
+1321;location d'autocars;0
+1322;phytothérapie;0
+1323;VTC (voitures de tourisme avec chauffeur);0
+1324;contrats obsèques;0
+1326;vente de cosmétiques;0
+1327;aménagements pour personnes handicapées;0
+1329;médiation inter-entreprises;0
+1330;maisons ossature bois (fournisseurs);0
+1331;parquets stratifiés (vente, pose);0
+1332;restauration ambulante;0
+1333;fab lab;0
+1334;cosmétiques (magasins);0
+2000;abrasifs;1
+2590;abris de jardins, garages préfabriqués;1
+2700;accessoires de mode (vente);0
+3600;batteries, piles;1
+6810;acoustique (études, mesures);1
+6940;actuaires;1
+7240;adhésifs;1
+7610;administrateurs de biens, syndics de copropriétés;0
+7820;administrateurs judiciaires;1
+7879;administration des Affaires Etrangères;0
+7899;administrations des Transports, de l'Equipement, du Tourisme et de la Mer;0
+7909;agriculture, équipement, transport (services publics);0
+8019;défense nationale (services publics);0
+8029;économie, finances (services publics);0
+8049;environnement, habitat (services publics);0
+8089;intérieur, sécurité (services publics);0
+8099;éducation nationale (services publics généraux);0
+8119;tribunaux, centres de médiation;0
+8139;affaires maritimes (services publics);0
+8169;préfectures, sous-préfectures;0
+8179;administrations régionales, départementales et locales;0
+8199;affaires sanitaires, sociales (services publics);0
+8219;emploi, travail (services publics);0
+8229;industrie, recherche (services publics);0
+8239;administrations du Commerce et de l'Artisanat;0
+8249;culture, tourisme (services publics);0
+8259;jeunesse, sports (services publics);0
+9140;ventilation (vente, installation);1
+9380;aéroclubs, écoles de pilotage;1
+10200;aéronautiques (industries);1
+10500;aéroports, services aéroportuaires;0
+10750;affacturage;1
+11310;affichage (entreprises);1
+11370;affichage électronique;1
+11610;affiches (réalisation, impression);1
+12720;affûtage;1
+12900;agencement d'appartements;1
+12930;agencement de bureaux;1
+12960;agencement de cafés, d'hôtels, de restaurants;1
+13100;agencement de magasins;1
+13930;agences matrimoniales;0
+14000;agences photographiques de presse;1
+14070;agences de presse;1
+14580;agences de voyages;0
+14950;agendas, calendriers et répertoires (fabrication, gros);0
+15370;agents artistiques, agents littéraires;1
+15390;agents et cabinets d'affaires;1
+15810;informatique, Internet : assistance à domicile;1
+17110;agrafes, agrafeuses;1
+18150;agriculteurs;1
+18220;agriculture (recherches, études);0
+18240;agriculture (approvisionnement, collecte);1
+18730;services, aides à domicile;0
+19260;aimants;1
+19400;alarmes, antivols pour autos (vente, pose);1
+19520;alarmes, surveillance : systèmes (vente, installation);1
+20530;alcools, eaux de vie;1
+21100;additifs, arômes alimentaires (fabrication, gros);1
+22370;alimentation animale;0
+22430;alimentation, supérettes;0
+22460;alimentation (distribution, gros);1
+22480;alimentation (fournitures pour commerce);1
+22500;alimentation (matériel pour commerce);1
+22520;alimentation (matériel pour industrie);1
+23040;allocations familiales;0
+24610;aluminium (articles);1
+24940;aluminium, alliages (production, transformation);1
+25410;agriculteurs bio;0
+25430;criées;0
+25440;produits agricoles;1
+25480;élevages de chats;1
+25490;élevages de chiens;1
+25520;home cinéma;1
+25530;carrelages, dallages (pose);1
+25540;hammams;0
+25550;saunas;0
+25560;puériculture (magasins);0
+25580;lingerie;0
+25600;sous-vêtements masculins;0
+25610;vêtements bébés;0
+25620;vêtements grandes tailles femmes;0
+25630;vêtements grandes tailles hommes;0
+25640;associations éducatives;0
+25650;bricolage (petits travaux);0
+25660;crèches;0
+25670;garderies, haltes-garderies;0
+25680;jardinage (petits travaux);0
+25690;jardins d'enfants;0
+25700;syndicats intercommunaux;0
+25710;automobiles (pièces, accessoires);1
+25959;ambassades, consulats;0
+26160;ambulances;0
+26410;aménagement de combles;1
+26440;aménagement de locaux industriels, professionnels;1
+27100;associations diverses, amicales;0
+27540;amincissement (centres);0
+28170;animaleries;1
+28440;animaleries : matériel (fabrication, gros);1
+29250;animation artistique;1
+29280;animation commerciale;1
+29310;animaux (dressage);1
+29550;animaux (refuges, fourrières);0
+29610;animaux (services);0
+30390;annuaires (édition);1
+30990;antennes de télévision (vente, installation);1
+32580;antiquités;1
+32700;antiquités, objets d'art (restauration);1
+34200;apiculture;1
+37150;aquaculture;1
+37270;aquariums, viviers (études, réalisations);1
+38470;arboriculture, production de fruits;1
+38580;architectes d'intérieur;1
+38890;architectes (profession);1
+38960;architectes navals;1
+39450;archives (stockage, gestion, destruction);1
+40110;ardoises;1
+41450;armagnac;1
+41750;armateurs;0
+41860;armatures pour béton;1
+43200;armes, munitions (fabrication, gros);1
+43740;armureries;0
+44110;arrosage (appareils et installation);0
+46750;vêtements grandes tailles;0
+46780;articles pour fumeurs;0
+46820;articles funéraires;0
+46830;articles, librairies érotiques;0
+46980;matériel de cuisine (fabrication, gros);1
+47320;articles religieux;0
+47330;produits diététiques, naturels;0
+48380;couverture (entreprises);1
+48430;artisanat d'art;0
+48700;loisirs créatifs, travaux manuels;0
+48800;artistes peintres;1
+49500;artistes du spectacle;1
+49520;arts de la table : cristallerie, vaisselle, orfèvrerie (fabrication, gros);1
+49580;arts graphiques, arts plastiques : matériel (fabrication, gros);1
+49600;arts martiaux (clubs);0
+49660;ascenseurs, monte-charges (installation, maintenance);1
+49960;enrobés (travaux);1
+50190;coiffeurs à domicile;0
+50200;esthéticiennes à domicile;0
+50210;stations d'épuration;1
+50220;informatique : conseils, services, maintenance;1
+50230;informatique : formation;0
+50330;aspirateurs industriels;1
+50810;aspiration centralisée (matériel);1
+50850;assainissement : matériel et produits;0
+50890;assainissement;1
+51300;assistance sociale;0
+51680;assistance aux automobilistes, aux touristes;1
+51750;assistantes maternelles;0
+52450;associations de défense de l'environnement;0
+52480;associations humanitaires, d'entraide, sociales;0
+52500;associations, organismes de consommateurs et d'usagers;0
+52530;associations culturelles, éducatives, de loisirs;0
+52550;associations religieuses, philosophiques;0
+52840;assurances (agents généraux);0
+52850;assurances (courtiers);0
+52890;assurances (maritimes, fluviales et de transports);0
+53000;assurances (sociétés);0
+53180;astrologie, numérologie;0
+57100;audioprothésistes;0
+57780;audiovisuel (matériel);1
+57800;audiovisuel : méthodes, techniques;0
+57970;audiovisuel (production, réalisation);1
+58000;audiovisuel (réalisateurs conseils);0
+58040;audiovisuel, spectacle (techniciens);0
+58530;auteurs, compositeurs;0
+58700;autocars (transports touristiques);0
+59760;auto-écoles;1
+60360;automates, boîtes à musique;1
+60900;automatismes industriels (études, installation);1
+61240;automobiles (agents, concessionnaires, distributeurs);1
+61560;automobiles (construction, importation);1
+61590;automobiles (crédit, leasing);1
+61800;automobiles d'occasion;1
+61900;casses automobiles;0
+62100;automobiles, véhicules industriels (adaptations, aménagements);1
+62150;contrôle technique de véhicules;1
+62200;automobiles, véhicules industriels : équipement, pièces (fabrication);1
+62250;automobiles, véhicules industriels : pièces et accessoires (commerce);0
+62430;autoradios (vente, pose);1
+62600;autoroutes (exploitation);0
+62800;chiropractie (soins hors d'un cadre réglementé);0
+63850;avions, hélicoptères (location, vente);1
+63930;avions-taxis;1
+64230;avitaillement;1
+64460;avocats;0
+64530;avocats au conseil d'état et à la cour de cassation;0
+64610;avocats inscrits à un barreau étranger;0
+64620;avocats spécialistes en droit commercial;0
+64640;avocats spécialistes en droit communautaire;0
+64660;avocats spécialistes en droit économique;0
+64680;avocats spécialistes en droit de l'environnement;0
+64700;avocats spécialistes en droit fiscal;0
+64720;avocats spécialistes en droit immobilier;0
+64740;avocats spécialistes en droit des mesures d'exécution;0
+64760;avocats spécialistes en droit pénal;0
+64780;avocats spécialistes en droit des personnes;0
+64800;avocats spécialistes en droit de la propriété intellectuelle;0
+64820;avocats spécialistes en droit public;0
+64840;avocats spécialistes en droit des relations internationales;0
+64860;avocats spécialistes en droit rural;0
+64880;avocats spécialistes en droit social;0
+64890;avocats spécialistes en droit des sociétés;0
+64900;avoués près la cour d'appel;0
+65400;bâches (vente, location);1
+66800;bains, douches publics;0
+66820;badges (fabrication);1
+67400;balances et bascules (fabrication);0
+67600;balances, bascules;1
+71100;banques;0
+71280;banques de données (serveurs, éditeurs);1
+72450;bardage;1
+74100;bars à thèmes;0
+75160;bateaux de plaisance (vente, réparation);1
+75300;bateaux de plaisance, planches à voile et accessoires (fabrication);0
+75340;bateaux-écoles;0
+75400;bateaux (garages, hivernage);1
+75650;bâtiment (entreprises);1
+76800;articles de cuisine;0
+76950;bennes, remorques;1
+78420;bestiaux (commerce);1
+79680;béton armé, précontraint;1
+79740;béton prêt à l'emploi;1
+79980;béton (produits);1
+80830;produits laitiers, avicoles (fabrication, gros);1
+81390;bibliothèques, médiathèques;0
+81480;bibliothèques (fabrication, installation);1
+82180;bières (fabrication);1
+82200;boissons (fabrication, gros);1
+82900;bijouterie fantaisie;0
+82950;bijouterie fantaisie (fabrication, gros);1
+82990;bijouterie, joaillerie (matériel);1
+83010;bijouterie, joaillerie (réparation, transformation);0
+83050;bijouterie, joaillerie;0
+83210;bijouterie (fabrication, gros);1
+84310;bijoux anciens, d'occasion;0
+84750;billards (académies);0
+84820;billards (fabrication);1
+85800;bimbeloterie (gros);0
+86530;biscuiteries, biscotteries;1
+88810;blanchisseries;1
+88850;blanchisseries pour particuliers;0
+88940;blanchisseries, laveries, pressings (matériel);1
+90600;bobinage, maintenance électrique;1
+91500;bois de chauffage;1
+91650;bois de construction et d'industrie;0
+91690;bois (courtiers);0
+92460;bois;0
+92530;bois d'ébénisterie;1
+92810;bois en grumes;1
+92900;bois d'importation, d'exportation;1
+93010;bois d'aménagement, de construction;1
+93170;bois de placage;1
+93980;boisseliers;0
+94250;accessoires de mode (fabrication, gros);1
+94300;boissons non alcoolisées (fabrication, gros);1
+97300;bonneterie (fabrication, gros);1
+97340;ostéopathes;0
+98600;bottiers;0
+98900;boucheries, charcuteries, abattoirs (matériel);1
+99340;boucheries chevalines;0
+99410;boucheries, boucheries-charcuteries;0
+99920;bouchons, capsules (fabrication, gros);1
+101000;bougies et cierges (fabrication, détail);0
+102080;boulangeries, pâtisseries (fournitures);1
+102090;boulangeries, pâtisseries (matériel);1
+102140;boulangeries-pâtisseries (artisans);0
+102150;pains, pâtisseries (terminaux de cuisson);0
+102200;pains, pâtisseries, viennoiseries industrielles (fabrication, gros);1
+102600;boule, pétanque (clubs);0
+102880;boulonnerie, visserie, clouterie;1
+103390;bouquinistes;0
+103990;ménage, repassage à domicile;0
+104200;bourse (sociétés);1
+105000;boutiques exotiques, articles d'Orient;0
+106140;boutons (fabrication);0
+107300;bowlings;0
+107900;boxe (clubs);0
+108200;boyaudiers;0
+110400;bricolage, outillage;1
+111040;briqueteries, tuileries;1
+111300;brocante;0
+111980;post-presse, finition, façonnage (travaux);0
+112100;broderie, marquage à façon;1
+112400;broderie, dentelle, tulle;1
+112810;bronzage UVA;0
+113600;bricolage, jardinage (petits travaux);0
+115350;brosseries;1
+115560;sophrologie;0
+116200;broyage, criblage, concassage;1
+116530;broyeurs, concasseurs;0
+117690;brûleurs (vente, installation);1
+117840;bureautique : matériel (fabrication, gros);1
+118250;bureau : matériel;1
+118260;bureau : matériel (fabrication, gros);1
+119340;cabarets;0
+120350;câbleries;1
+121200;câbles, fils électriques (fabrication, gros);1
+123100;cadeaux;0
+123120;cadeaux d'entreprises;1
+123250;cadeaux, souvenirs (fabrication, gros);0
+124400;encadrement (matériel);1
+124600;cafés, brasseries;0
+124700;cafés, bars, brasseries (matériel);1
+124800;café, cacao (importation, négoce);1
+125280;café (torréfaction);0
+126920;caillebotis, planchers métalliques;1
+127660;caisses enregistreuses, terminaux de paiement;1
+128330;caisses de retraite, de prévoyance;0
+131900;camions, véhicules industriels (agents, concessionnaires, succursales);1
+132600;camping (matériel);1
+132700;campings;0
+133330;canalisations (pose, entretien);1
+133930;cannage, rempaillage;1
+135800;caoutchouc : matières premières (production);0
+135810;caoutchouc : produits, semi-produits (fabrication, négoce);1
+136700;camping-cars, caravanes, mobile homes (vente);1
+136800;camping-cars, caravanes, mobile homes (fabrication);1
+137050;caravanes, camping-cars (gardiennage);1
+137970;carburants (commerce);0
+138500;carburation, allumage (stations techniques);1
+141050;carrelages, dallages (vente);1
+141070;carrelages, dallages (fabrication, gros);1
+141140;carrelages, dallages (vente, pose, traitement);0
+141880;carrières (exploitation);1
+142320;carrosserie, peinture automobile;1
+142380;carrosserie (matériel);1
+142410;carrosserie industrielle;1
+142980;cartes, guides, plans (édition);1
+142990;cartes de paiement, de retrait;1
+143170;cartes postales (édition);1
+143690;cartographie;1
+143990;voyance, cartomancie;0
+144550;carton (fabrication, gros);1
+144640;carton ondulé (fabrication, gros);1
+145310;cartonnage (fabrication, gros);1
+148690;caution (sociétés);1
+148810;caves (matériel);1
+149250;ceintures et bretelles (fabrication);0
+150310;centrales de réservations hôtelières;0
+150380;centres, associations de gestion agréés;1
+150500;centres commerciaux et grands magasins;0
+151190;services à domicile pour personnes âgées, dépendantes, handicapées;0
+151260;centres médico-sociaux;0
+152200;céramique (fabrication);1
+152250;céramique (matériel);0
+153420;céréales (production);1
+153960;chaînes (fabrication);1
+155050;châles, écharpes et foulards (fabrication);0
+155120;constructeurs de chalets;1
+155840;Chambres de Commerce, d'Industrie, de Métiers, d'Artisanat, d'Agriculture;0
+157520;champignons (production);1
+157670;champs de courses, hippodromes;0
+157770;bureaux de change;0
+159000;chapeaux et coiffures (fabrication);0
+159660;chapeaux;0
+160600;charbon, charbon de bois;0
+161400;charcuteries;0
+161470;charcuteries (fabrication, gros);1
+161610;charcuteries (gros);0
+162600;chariots élévateurs;1
+163400;charpentes;1
+163470;charpentes métalliques;1
+164500;chaudières pour chauffage central (fabrication, gros);0
+164630;chaudières industrielles (fabrication, gros);0
+165060;chaudières industrielles;1
+166400;chaudronnerie;1
+166470;chaudronnerie inoxydable;1
+166900;chauffage (matériel);1
+167230;chauffage (fabrication, gros);1
+167250;dépannage de chauffage;1
+167270;chauffage électrique (vente, installation);1
+167320;chauffage (exploitation);1
+167440;chauffage au gaz (vente, installation);1
+167540;chauffage industriel (vente, installation);1
+167560;chauffage (vente, installation);1
+167820;chauffage urbain;0
+168190;chauffe-eau (fabrication, gros);1
+168210;chauffe-eau (vente, installation);1
+169870;chaussures (magasins);0
+170300;chaussures, accessoires (fabrication, gros);1
+170350;chaussures : matériel, fournitures, accessoires (fabrication, gros);0
+170760;chaussures (gros);0
+172000;cheminées, accessoires;1
+172500;médecins diabétologues-nutrition;0
+172600;cheminées, incinérateurs industriels (construction);1
+172940;tubage de conduits de fumée;1
+173090;chemiserie et sous-vêtements masculins (fabrication, gros);0
+173110;chemiserie et sous-vêtements masculins (détail);0
+173130;médecins : nutrition;0
+174900;chevaux (commerce);1
+180910;cidre (production);1
+181380;ciments, chaux (fabrication);1
+181950;cimetières;0
+186200;cinéma (distribution);1
+190320;films éducatifs, industriels, publicitaires (production);1
+190330;cinéma (production, réalisation, distribution);1
+191200;cinéma (salles);0
+191400;cintrage, pliage de tôles et de tubes;1
+192210;circuits imprimés;1
+193560;cirques;0
+197100;assistance administrative à domicile;0
+197200;clés (reproduction);0
+199080;climatisation (vente, installation);1
+199100;climatisation, ventilation (fabrication, gros);1
+199450;maternités;0
+199520;cliniques;0
+199620;centres dentaires;0
+199660;cliniques médicales;0
+199730;cliniques psychiatriques;0
+199780;cliniques-polycliniques;0
+200190;cloches (fonderies, électrification);1
+200920;cloisons (vente, pose);1
+200940;cloisons, plafonds (fabrication);1
+201110;clôtures, barrières;1
+202300;clubs, associations de loisirs;0
+202460;clubs de sport;0
+202800;coffrages;1
+203100;coffres-forts;1
+203770;cognac, pineau des Charentes;1
+203850;coiffeurs;0
+204300;coiffure (matériel, accessoires);1
+204500;coiffure, esthétique (à domicile);0
+205740;collectivités, administrations (matériel);1
+206860;colles;1
+208900;colorants, pigments (fabrication, gros);1
+209490;combustibles : fioul, bois, charbon;0
+210300;commerces, industries (transactions);1
+211100;commissaires aux comptes;1
+211500;commissariats de police;0
+212150;commissionnaires en marchandises;0
+212520;communautés religieuses;0
+212650;communication d'entreprises;1
+213600;composants électroniques passifs (fabrication, gros);1
+214610;compresseurs;1
+217010;compteurs (fabrication, installation);1
+218920;condiments, épices (fabrication, gros);1
+218970;emballage, conditionnement (entreprises);1
+219400;chocolateries, confiseries, biscuiteries (gros);0
+222340;chocolateries, confiseries (fabrication, gros);1
+222360;chocolateries, confiseries;0
+223660;conseils en commerce extérieur;1
+223740;conseils conjugaux, familiaux;0
+223830;conseils en économie privée, sociale, familiale;0
+223910;conseils, études économiques et sociologiques;1
+223940;conseils, études financières;1
+223960;conseils en formation, gestion de personnel;1
+224020;gestion de patrimoine;0
+224250;conseils en organisation, gestion management;1
+224800;conservatoires;0
+225240;conserves de fruits, confitures (fabrication, gros);1
+225310;conserves de légumes (fabrication, gros);1
+225370;conserves de plats cuisinés (fabrication, gros);1
+225380;conserves de poissons (fabrication, gros);1
+225520;conserves de viandes (fabrication, gros);1
+226560;constructions agricoles;1
+227220;constructions industrielles;1
+227370;construction mécanique;1
+227440;constructions métalliques;1
+227470;constructions mobiles de chantier;1
+227510;constructions navales, fluviales;1
+227590;constructions modulaires;1
+228300;sss;0
+228400;containers;1
+228650;contrôles techniques de bâtiment;1
+229000;contrôles de fabrication industriels;1
+230500;coopératives agricoles;1
+230550;coopératives d'alimentation;0
+230600;coopératives laitières;0
+230680;coordination de travaux du bâtiment;1
+232330;corderies, ficelleries;1
+233260;cordonneries;0
+235480;costumiers;1
+237200;coupes, insignes, trophées;1
+238330;écrivains publics;1
+238600;soutien scolaire, cours particuliers;0
+239200;courses, transports légers de proximité;0
+239450;courtiers financiers;0
+239700;courtiers en marchandises;1
+241500;coutellerie (magasins);0
+241700;coutellerie (fabrication, gros);1
+242500;couture, haute couture (création);0
+242600;couture, confection (façonniers);1
+242680;couture, retouches;0
+243840;communautés de communes, d'agglomérations, urbaines;1
+243920;couvertures (fabrication);0
+245800;cravates (fabrication);0
+246450;crèches, garderies;0
+246460;crédit, crédit-bail aux entreprises;1
+246500;crédit à la consommation;1
+246820;crédit immobilier;1
+246940;fromageries;0
+247790;crêperies;0
+249940;cristallerie;1
+252170;crustacés, coquillages (gros);1
+253540;cuir (réparation, nettoyage, teinture);0
+253570;cuirs, crépins (négoce);1
+253600;cuirs, peaux (gros);1
+253720;cuirs et peaux bruts (importation, exportation, gros);0
+253910;cuisines (vente, installation);1
+254100;cuisines professionnelles (fabrication, installation);1
+254900;cuivrerie, dinanderie;1
+256070;culte israélite;0
+256090;culte musulman;0
+256220;cultes divers;0
+256560;gymnastique (clubs);0
+257340;cures, réadaptation, convalescence (établissements de);0
+258130;cuves, citernes, réservoirs (fabrication);1
+258650;handicapés : hébergement, services pour adultes;1
+258780;motos, scooters, vélos (fabrication);1
+259510;motos, scooters (vente, réparation);1
+261100;danse (articles);0
+261170;danse (cours);0
+262510;déblaiements, débarras;1
+262700;débroussaillage;1
+263450;décalcomanie, impression, transfert;1
+263650;décapage, dégraissage;1
+264700;déchets ménagers, assimilés (collecte, recyclage, valorisation);1
+265130;décolletage, tournage;1
+265490;décorateurs;1
+265630;décorateurs ensembliers;0
+266140;décoration florale;0
+266800;décorations civiles, militaires;1
+267020;découpage, emboutissage;1
+268940;déménagements;1
+269020;déménagements industriels, de bureaux;1
+269080;démolition (entreprises);1
+270000;dentistes : chirurgiens-dentistes et docteurs en chirurgie dentaire;0
+270300;dentistes : chirurgiens-dentistes spécialistes en orthodontie;0
+270500;dentistes : chirurgiens-dentistes, prothésistes dentaires (matériel);1
+270900;dépannage, remorquage automobiles;1
+271120;dépannages urgents à domicile;0
+271700;dépôts-ventes meubles, équipements pour la maison;1
+271800;dépôts-ventes vêtements;0
+273500;designers;1
+273650;dératisation, désinsectisation, désinfection;1
+274690;dessinateurs en bâtiment;1
+274700;arts graphiques, arts plastiques (matériel);1
+274750;dessinateurs (divers);0
+275000;dessinateurs;1
+275630;dessinateurs industriels;1
+277460;détartrage;1
+278430;détectives, agents de recherches privées;1
+281510;diamants, pierres précieuses, gemmes;1
+281530;cybercafés;0
+281660;diesel (réparation, entretien);1
+281680;diététiciens;0
+281790;produits biologiques, naturels, diététiques;0
+281810;produits biologiques, diététiques, naturels (fabrication, gros);1
+282450;discothèques;0
+282480;déstockage, discount, dégriffés;0
+282500;discount, stocks d'usines pour professionnels;0
+282620;disquaires;0
+282870;CD, DVD (duplication);1
+283900;distilleries;1
+284230;distributeurs automatiques (vente, location, gestion);1
+284250;distributeurs automatiques (fabrication);1
+284780;distribution d'imprimés;1
+285400;archives, documentation;0
+286040;domiciliations commerciales, industrielles;1
+286490;doreurs sur bois;1
+287150;orfèvrerie (dorure, argenture);1
+288340;dragage (travaux de);0
+289010;drainage, irrigation (travaux);0
+289320;drapeaux, banderoles (fabrication);1
+290190;drogueries;0
+290230;drogueries (gros);0
+292200;eaux (distribution);1
+292700;eaux minérales, de source (production);1
+293360;ébénisterie;1
+293440;ébénisterie d'art, restauration de meubles;1
+294800;échafaudages, échelles (vente, montage);1
+295180;échafaudages, échelles (fabrication, gros);1
+295640;échantillonnage;1
+296320;éclairage : matériel (fabrication, gros);1
+296500;éclairage de bureau, de commerce;1
+296810;éclairage industriel, éclairage public : matériel (fabrication, importation);0
+298550;économie d'énergie (études);1
+298820;économistes de la construction;1
+299850;écrivains;1
+300200;écrivains publics et conseils en formalités administratives;0
+301000;éditions culturelles;1
+301500;éditions techniques, scientifiques;1
+302000;église catholique;0
+302010;église orthodoxe;0
+302020;églises chrétiennes;0
+302030;églises évangéliques;0
+302040;églises protestantes;0
+303210;élagage, abattage (entreprises);1
+303500;électricité automobile (stations techniques);1
+303880;électricité : appareillage industriel (fabrication, gros);1
+303890;électricité : conduits et accessoires (fabrication);0
+304020;électricité : matériel de production, de transport (fabrication, gros);1
+304030;électricité : montage de matériel;1
+304040;électricité générale (entreprises);1
+304050;électricité : matériel et fournitures d'installation (fabrication);0
+304210;électricité industrielle (entreprises);1
+304250;électricité marine;1
+304400;électricité (production, distribution);1
+304500;électricité, électronique (matériel);1
+304520;électricité : matériel (fabrication, gros);1
+304600;électricité, électronique médicale, radiologie : appareils (fabrication);1
+307330;électromécanique;1
+307550;dépannage d'électroménager;1
+307570;électroménager (magasins);1
+307580;électroménager (pièces détachées);1
+307590;électroménager (fabrication, gros);1
+307630;électrométallurgie;1
+308100;électronique : matériel, composants (fabrication, gros);1
+308200;électronique professionnelle : matériel;1
+309610;élevages d'animaux;1
+309670;élevage de chiens, de chats;0
+309710;élevage (matériel);1
+309730;élevages de bovins;1
+309750;élevages de gibiers;1
+309780;élevages de moutons, de chèvres;1
+309790;élevages de porcs;1
+309920;élevages de volailles, de lapins;1
+311500;emballage d'expédition (entreprises);1
+311710;emballages en bois;1
+311930;emballages en carton, papier;1
+312100;emballages, conditionnements (matériel);1
+312140;emballages métalliques;1
+312470;emballages en matières plastiques;1
+312950;emballages en verre;1
+313040;embouteillage, étiquetage;1
+314800;encadrement (travaux);1
+317130;énergie nucléaire (équipements, études);1
+317600;énergies solaire et nouvelles;0
+318000;engrais, fertilisants (production);1
+318240;engrenages, organes de transmission;1
+318680;studios d'enregistrement;1
+319100;enseignement : coiffure, esthétique;0
+319110;enseignement : commerce, gestion, informatique;0
+319130;cours par correspondance, enseignement à distance;1
+319140;enseignement divers;0
+319170;cours de langues;0
+319180;enseignement : professions artistiques;0
+319200;enseignement : social, paramédical;0
+319230;enseignement : tourisme, cuisine, hôtellerie;0
+319740;enseignement : organismes de gestion des établissements privés;0
+319750;écoles maternelles privées;0
+319760;écoles primaires privées;0
+319770;collèges privés;0
+319780;enseignement supérieur privé;0
+319870;écoles maternelles publiques;0
+319880;écoles primaires publiques;0
+319890;collèges publics;0
+319900;enseignement supérieur public;0
+320100;enseignes;1
+321500;entrepôts frigorifiques;1
+321800;entrepôts;1
+322170;entreprises générales de bâtiment;0
+324550;enveloppes, sacs, pochettes (fabrication, gros);1
+324560;bureaux d'études environnement;1
+324620;épiceries fines;0
+325800;équarrisseurs;1
+326210;équipements militaires;1
+326380;équipements pétroliers;1
+326800;équitation, sellerie (équipement);1
+326810;ergonomie (études, formation);1
+327170;centres équestres, équitation;0
+327470;ergothérapeutes;0
+327720;escaliers (fabrication, installation);1
+328590;escrime (clubs);0
+328900;funérariums;1
+330820;essuie-mains, distributeurs de savon;1
+331120;essuyage professionnel (produits);1
+331420;estampage, matriçage;1
+333080;établissements d'éducation spécialisée;0
+333300;établissements financiers;0
+334500;étalages (matériel);1
+334700;étalagistes;1
+335310;étanchéité (entreprises);1
+335360;étanchéité (produits);1
+335500;expertise comptable;0
+336900;étiquettes (réalisation, impression);1
+338200;études de marché;1
+345300;experts fonciers, agricoles;1
+345350;experts en antiquités et objets d'art;1
+345370;experts en assurances;1
+345440;experts en automobiles;1
+345780;experts-comptables;0
+345810;transport en commun;1
+345900;experts divers;1
+346200;experts en immobilier;1
+346800;experts forestiers;1
+347700;experts en bâtiment;1
+347910;explosifs;1
+348650;expositions, foires, salons (organisation);1
+348680;expositions, foires, salons (matériel);1
+348720;expositions, foires, salons (installation);1
+349040;extincteurs;1
+349430;extinction d'incendie : matériel et fournitures (fabrication, gros);0
+349900;façades (travaux de revêtements);0
+350400;facteurs d'orgues, pianos, clavecins;1
+351300;fêtes : articles (magasins);0
+352300;farines, semoules (fabrication, gros);1
+353690;fenêtres;1
+354300;ferblantiers;1
+354350;fermes-auberges;0
+354500;fers (commerce);1
+354980;fermetures de bâtiment;0
+356160;ferronnerie;1
+356230;ferronnerie d'art;1
+356350;fêtes : articles (fabrication, gros);1
+358000;pyrotechnie (spectacles);1
+358300;filatures;1
+358700;fichiers d'adresses;1
+360200;filets (fabrication);1
+362700;fils et filés (négoce);0
+363690;filtres à air et gaz;1
+363800;filtres, éléments filtrants;1
+364850;flaconnage;1
+365460;fleuristes;0
+365530;fleuristes (matériel);1
+365580;fleurs, plantes artificielles;0
+366090;fleurs, plantes naturelles (gros);1
+366650;flexibles (fabrication, gros);1
+366810;flocage;0
+367410;foie gras (production);1
+367720;folklore;0
+368080;fondations, consolidations de sols;1
+368450;fonderies de métaux ferreux;1
+368590;fonderies d'art;1
+369010;fonderies;1
+370190;fontaines (fabrication, installation);1
+370200;fontaines à eau;1
+371290;forages, sondages (matériel);1
+371390;forages, sondages, construction de puits (travaux);1
+372100;forêts (exploitation);1
+372150;forêts (travaux, gestion);1
+372160;forgerons, maréchaux-ferrants, charrons;1
+372900;formation continue;0
+373100;formes de découpe (fabrication);1
+373500;fosses septiques;1
+374410;matériel industriel;1
+375060;fourrures;0
+375090;fourrures (confection, distribution);0
+375750;fours (fabrication);1
+376280;foyers d'hébergement;0
+377860;franchisage (sociétés);1
+377900;décoration (magasins);0
+378310;freins industriels;1
+378920;frigorifiques (équipements pour camions);1
+379000;frigorifiques (installations);1
+379300;fripiers;0
+380030;froid industriel (matériel);1
+380400;fromages (affinage);1
+380450;fromages (fabrication);1
+381110;fruits, légumes (gros);1
+381150;primeurs;0
+381160;fruits et légumes prêts à consommer;0
+381170;fruits et légumes secs (gros);0
+381930;fumisterie industrielle;1
+384250;vélos, cycles (vente, réparation);1
+384320;gainerie;1
+384420;récupération d'eau de pluie (installation);1
+384940;galeries d'art;1
+386200;galvanisation, étamage, plombage;1
+387450;gants (fabrication);0
+388310;garages automobiles;1
+388500;garages poids lourds;1
+388550;garages, stations-service (installation, maintenance);1
+389120;garde d'enfants;0
+389500;garde-meubles;1
+390020;surveillance, gardiennage, protection (entreprises);1
+390320;gares routières;0
+390710;produits exotiques;0
+390750;gastronomie : spécialités régionales;1
+390760;gastronomie : spécialités régionales, étrangères (fabrication, gros);1
+390770;gastronomie : spécialités régionales et étrangères (production, gros);0
+391200;gaz butane, propane (production, distribution);1
+391540;gaz industriels;1
+391750;gaz naturel;1
+391800;dépannage de chauffage au gaz;1
+391870;gaz (traitement industriel);0
+393050;généalogistes;1
+393200;transport : logistique;1
+393650;géologie, géophysique;1
+393660;gendarmeries;0
+393950;géomètres-experts;1
+394550;gérants de portefeuilles;0
+395690;cinéma (matériel);0
+396100;glace à rafraîchir;0
+397370;glaciers;0
+397440;glaciers (matériel);1
+398640;golf (terrains, clubs);0
+400200;gouttières;1
+401090;graines, semences (production);1
+401220;fruits et légumes secs;0
+401300;graineteries;1
+402020;grains, farines (négoce);1
+402220;grains, fourrages (production);1
+403500;graphistes;1
+403830;graphologues;1
+404400;graveurs sur bijoux, médailles;1
+404530;graveurs;1
+404680;graveurs sur matières plastiques;1
+404790;graveurs sur pierre;1
+405680;gravure sur métaux;1
+405800;gravure sur verre;1
+407660;grillages métalliques;1
+407800;rideaux métalliques;1
+408930;groupements d'achats;1
+409100;groupes électrogènes;1
+409600;grues, élévateurs;1
+410500;guides de montagne, moniteurs de ski, accompagnateurs en montagne;0
+412580;handicapés (matériel);1
+412880;élevages de chevaux, haras;1
+414800;médiation familiale;0
+415110;transport frigorifique;1
+415180;transport par citernes;1
+415250;hi-fi (vente);0
+415400;HLM (offices, gestion);0
+416380;hôpitaux;0
+416450;hôpitaux (matériel);1
+416690;horlogerie (réparation);0
+416710;horlogerie électrique, monumentale;1
+416900;horlogerie (fabrication, gros);1
+417750;horticulteurs;1
+417950;horticulture, arboriculture (matériel);1
+418320;hospitalisation à domicile (structures de soins);0
+418440;hôtels;0
+418510;hôtels (matériel);1
+419110;hôtesses d'accueil;1
+422440;huiles, graisses alimentaires (fabrication, gros);1
+422470;petites annonces (édition);1
+422840;huissiers de justice;0
+423260;humidité (traitement);1
+424100;parapharmacies;0
+424740;hygiène : articles (fabrication, gros);1
+426200;agences immobilières;1
+426300;immobilier d'entreprise;1
+426560;immobilier (locations saisonnières et temporaires);0
+426600;lotisseurs, aménageurs fonciers;1
+427350;import-export, commerce international;1
+427389;impôts, trésoreries (services des finances publiques);0
+427990;imprimerie, industries graphiques (matériel);1
+428200;tissus : impression, teinture, traitement, transformation;1
+428900;imprimerie, travaux graphiques;1
+429110;imprimeurs en continu;0
+429320;imprimeurs éditeurs;0
+431310;incinérations industrielles;1
+431940;industries chimiques;1
+432050;industrie laitière (matériel);1
+432240;infirmiers (cabinets, soins à domicile);0
+432300;infographie;1
+432450;information par téléphone;1
+432500;informatique : vente matériel, consommables;0
+432740;informatique : conseils, services, formation;0
+432820;informatique : éditeurs de logiciels, sociétés de services;1
+433100;informatique et micro-informatique (construction);0
+433200;informatique : mini et gros systèmes (vente, installation, maintenance);0
+433400;bureaux d'études, ingénierie (bâtiments);1
+433600;bureaux d'études, ingénierie (industries);1
+433700;bureaux d'études, ingénierie (infrastructures);1
+433710;ingénierie, bureaux d'études (divers);0
+436970;insémination animale;1
+439509;institutions politiques nationales, Grands Corps de l'Etat;0
+439750;instituts de beauté;0
+440650;instituts médicaux;0
+441600;agences d'intérim, d'emploi;1
+442200;taxis;0
+442400;interprètes;1
+442500;interprètes de conférence;1
+442950;inventaires (conseils, gestion);1
+443590;irrigation (matériel);1
+445220;isolation (matériaux);1
+445250;isolation (travaux);1
+446500;jardineries, végétaux, articles de jardin;1
+447010;jardins, parcs (aménagement, entretien);1
+448270;jeux automatiques (fabrication, gros);1
+448300;jeux pour cafés, casinos (vente, location);1
+448520;établissements de jeux, jeux en ligne;0
+448690;jeux de société, bridge, échecs (clubs, cours);0
+448700;jeux de société, jeux de cartes (fabrication, vente);1
+448780;joaillerie (création, transformation);0
+449500;joaillerie (sertissage, polissage, guillochage);0
+449800;joaillerie;0
+450220;joints d'étanchéité;1
+450730;jouets, jeux;0
+450760;jouets et jeux (fabrication);0
+450800;jouets, jeux (fabrication, gros);1
+452120;journalistes professionnels;1
+452230;journaux, presse, magazines (vente);0
+452730;journaux, presse, magazines (abonnements);1
+452740;journaux, presse, magazines (édition);1
+453170;judo (clubs);0
+455240;karaté (clubs);0
+456560;laboratoires d'analyses agricoles, biologie végétale;1
+456580;laboratoires d'analyses de biologie médicale;0
+456590;laboratoires d'analyses industrielles;1
+456600;laboratoires d'anatomie et cytologie pathologiques humaines;0
+456620;laboratoires (matériel);1
+456680;laboratoires de contrôle sanitaire, environnemental;1
+456860;laboratoires homéopathiques;1
+457130;laboratoires pharmaceutiques;1
+457280;laboratoires vétérinaires;1
+458280;laines;0
+459390;laiteries;1
+459460;lait médical, alimentation pour bébés (fabrication, gros);1
+459700;produits laitiers et dérivés (fabrication);0
+461600;lampes d'éclairage (fabrication, importation);0
+464880;laser (machines);1
+465030;lavage, nettoyage de véhicules;0
+465300;laveries;0
+467500;lentilles de contact;0
+467900;lettres pour enseignes;1
+467950;levage, arrimage (matériel);1
+468500;librairies;0
+468700;librairies, éditions anciennes;0
+468740;librairies, éditions (commissionnaires en);0
+469350;liège : bouchons, articles;1
+471650;linge de maison (vente);0
+471700;linge de maison (fabrication, gros);1
+472110;lingerie, sous-vêtements;0
+472120;lingerie féminine (fabrication);0
+473910;listes de mariage, arts de la table;0
+474400;literie;1
+474410;literie (fabrication);0
+474480;literie (gros);0
+476210;location de chauffages;1
+476250;location de matériel de jardinage;1
+476350;location d'appartements;1
+476450;location d'automobiles (tourisme, utilitaires);1
+476460;location d'automobiles avec chauffeur;1
+476550;location de bateaux, canoës, kayaks et planches à voile;0
+476570;location de bennes;1
+476600;location de bureaux équipés;1
+476630;location de camions, de véhicules industriels;1
+476650;location de caravanes, de mobile homes;1
+476690;location de chariots;1
+476870;location de vélos, motos et scooters;0
+477150;vidéo clubs;0
+477470;location-entretien de linge et articles textiles;1
+477750;location de matériel agricole;1
+477810;informatique : location de matériel;1
+477820;location de matériel d'éclairage;1
+477960;location de matériel industriel;1
+478110;location de matériel pour entrepreneurs;1
+478150;location de matériel audiovisuel;1
+478170;location de matériel pour réceptions;1
+478260;location de mobilier;1
+478310;location de matériel de bricolage;1
+478380;location de plantes;1
+478520;location de salles;1
+478540;location de skis;0
+478570;location de télévisions, vidéo, son;0
+478630;location de tentes, de chapiteaux;1
+478650;location de vêtements, d'accessoires;0
+478660;diagnostics immobiliers;1
+478820;logistique (services, conseils);1
+479930;loterie, tombola;0
+480530;lubrifiants, huiles, graisses industrielles;1
+480690;ludothèques;0
+480880;luminaires (magasins);0
+481280;luminaires (fabrication, gros);1
+481390;lunetterie (fabrication);1
+482240;luthiers;1
+483950;machines à café (fabrication, gros);1
+484540;arts de la table;0
+484970;machines à coudre, à repasser et à tricoter (fabrication, gros);0
+484980;machines à coudre, à tricoter;1
+486100;machines à écrire (réparation);1
+486950;machines pour industries;1
+487800;machines-outils (fabrication, négoce);1
+487810;machines à bois, PVC, alu (fabrication, négoce);1
+487830;machines-outils (maintenance, reconstruction);1
+488900;machines textiles (fabrication);1
+489180;matériel de traite;1
+490040;maçonnerie (entreprises);1
+491900;audiovisuel : matériel (fabrication, gros);0
+493620;maillots de bain et vêtements de plage (fabrication);0
+493750;maintenance industrielle;1
+493799;mairies;0
+493900;maisons, appartements et chambres meublés (location);0
+493950;maisons et homes d'enfants;0
+494100;constructeurs de maisons individuelles;1
+494600;maisons de quartier, maisons des jeunes;0
+495000;maisons de retraite privées;1
+495170;maisons de retraite, foyers-logements publics;1
+496350;maîtres d'oeuvre en bâtiment;1
+498280;mandataires judiciaires;1
+498360;mandataires spécialisés près le tribunal de commerce;0
+499100;manipulateurs, robots de manutention;1
+499340;agences de mannequins;1
+499370;mannequins d'étalages;1
+500370;manucure;0
+500570;manutention (matériel);1
+500610;manutention continue (systèmes);1
+500740;manutention, levage (entreprises);1
+501020;manutention portuaire;1
+501350;manutention, stockage : accessoires;0
+501750;maquettes professionnelles, prototypes (conception, réalisation);1
+502110;maraîchers;0
+502300;marbres, granits, pierres naturelles;1
+502780;marbre de décoration;1
+502800;marbriers funéraires;1
+503450;marchands de biens;1
+504400;mareyeurs;1
+505000;marine (équipement);1
+505050;marionnettes, spectacles pour enfants;0
+505120;marketing (agences);1
+505130;marketing direct;1
+505140;marketing téléphonique;1
+505270;maroquinerie;0
+505280;maroquinerie et articles de voyage : accessoires pour (fabrication, gros);0
+505330;maroquinerie et articles de voyage (gros);0
+505670;maroquinerie (fabrication, gros);1
+506170;marquage industriel;1
+508400;kinésithérapeutes : masseurs kinésithérapeutes;0
+508470;kinésithérapie (matériel);1
+508870;matelas (réfection);1
+509800;matériaux composites (fabrication, gros);1
+509970;matériaux de construction (fabrication);1
+509990;matériaux de construction;1
+510390;matériaux de viabilité (fabrication, exploitation);0
+511250;matériel ferroviaire fixe;0
+511320;matériel ferroviaire;1
+511390;matériel pour forains;1
+511600;matériel hydraulique;1
+511770;matériel médico-chirurgical (fabrication);1
+511790;matériel médico-chirurgical (vente, location, réparation);1
+512070;matériel agricole;1
+512090;matériel scolaire, pédagogique, psychotechnique;1
+512340;matériel thermique, aéraulique;1
+512370;matériel pour le BTP;1
+514250;matières plastiques : matières premières (fabrication, négoce);1
+514260;matières plastiques (matériel industriel);1
+514350;matières plastiques : produits, demi-produits (fabrication, négoce);1
+514700;matières textiles (import, export);1
+515050;mâts, pylônes (fabrication);1
+516000;mécanique agricole;1
+516080;mécanique générale;1
+516140;mécanique de précision;1
+518370;médecins généralistes;0
+518410;médecins acupuncteurs;0
+518420;médecins homéopathes;0
+518480;médecins allergologues;0
+518490;médecins : anatomie et cytologie pathologiques;0
+518500;médecins : génétique médicale;0
+518510;médecins anesthésistes, réanimateurs;0
+518530;médecins angiologues, médecine vasculaire;0
+518550;médecins : reproduction et gynécologie médicale;0
+518650;médecins biologistes;0
+518680;ministères;0
+518720;médecins cardiologues, maladies vasculaires;0
+518730;chirurgiens cardio-vasculaires et thoraciques;0
+518750;chirurgiens de la face et du cou;0
+518770;chirurgiens pédiatriques;0
+518790;chirurgiens généralistes;0
+518800;chirurgiens maxillo-facial, stomatologie;0
+518820;chirurgiens orthopédistes et traumatologues;0
+518840;chirurgiens plasticiens;0
+518850;chirurgiens urologues;0
+518860;médecins dermatologues;0
+518880;handicapés : établissements pour enfants, adolescents;0
+518890;chirurgiens vasculaires;0
+518900;chirurgiens viscéral et digestif;0
+518920;médecins gériatres, gérontologues;0
+518970;médecins : traitement de la douleur;0
+518980;médecins endocrinologues, diabétologues, maladies métaboliques;0
+518990;médecins gastro-entérologues, hépatologues;0
+519000;médecins gynécologues médicaux;0
+519050;protection de la jeunesse (services sociaux, judiciaires);0
+519070;médecins gynécologues, obstétriciens;0
+519090;médecins hématologues;0
+519100;médecins du sport;0
+519110;médecins aéronautiques;0
+519140;médecins : médecine interne;0
+519150;médecins légistes;0
+519160;médecins : médecine nucléaire;0
+519170;médecins thermalistes;0
+519180;fioul, combustibles;1
+519190;médecins : médecine tropicale et pathologies infectieuses;0
+519200;médecins néphrologues;0
+519210;chirurgiens neurochirurgiens;0
+519280;médecins neuropsychiatres;0
+519350;médecins neurologues;0
+519360;coopératives;0
+519420;médecins ophtalmologues;0
+519450;médecins : orthopédie dento-maxillo-faciale;0
+519560;médecins ORL;0
+519630;médecins pédiatres;0
+519680;médecins phoniatres;0
+519730;médecins pneumologues;0
+519770;médecins psychiatres;0
+519800;médecins psychiatres enfants et adolescents;0
+519820;médecins radiologues;0
+519870;médecins oncologues, radiothérapeutes;0
+519890;médecins réanimateurs;0
+519910;médecins : médecine physique et de réadaptation;0
+519980;médecins rhumatologues;0
+519990;santé publique et médecine sociale;0
+520050;médecins stomatologues;0
+520060;médecins addictologues;0
+520720;mélangeurs, malaxeurs (fabrication, gros);1
+521020;menuiserie (entreprises);1
+521230;menuiserie industrielle;1
+521370;menuiserie métallique;1
+521410;menuiserie PVC;1
+521740;mercerie;0
+522450;mercerie (fabrication, gros);1
+523220;mesure, contrôle, régulation, détection (appareils);1
+523520;métallisation;1
+523820;métallurgie;1
+524840;métaux non ferreux, alliages (production);1
+524960;métaux précieux, alliages (production);1
+525680;organismes de météorologie;1
+526580;metteurs en scène, scénaristes;1
+526600;meubles et accessoires pour cuisines et salles de bains;0
+527730;cuisines, salles de bain (meubles);1
+527800;mobilier de jardin;1
+527810;meubles d'enfants (fabrication, commerce);0
+528570;meubles en rotin (fabrication, commerce);0
+528780;meubles (magasins);1
+528790;meubles (fabrication);1
+531450;micro-édition, PAO (travaux);0
+531500;micrographie, numérisation;0
+531650;micro-informatique (vente, maintenance);0
+533030;minéraux, minerais;1
+533190;minéraux, fossiles, coquillages;0
+533240;mines, carrières (matériel);1
+533350;mines (exploitation);0
+534630;minoteries, meuneries;1
+535740;miroiterie d'art;0
+535850;miroiterie;1
+536110;mobilier de bureau;1
+536120;mobilier de bureau (fabrication);0
+537080;mobilier médical et chirurgical;0
+537100;mobilier métallique (fabrication);0
+537320;mobilier urbain;1
+537520;modelages;0
+537970;modèles réduits;0
+538330;modeleurs-mécaniciens;1
+539650;modistes;0
+540550;monnaies, médailles;1
+542120;montres (fabrication, gros);1
+542600;monuments, articles funéraires (fabrication);1
+543070;moquettes, tapis;1
+544550;moteurs électriques;1
+544950;moteurs industriels;1
+545000;moteurs de bateaux (vente, réparation);1
+545370;moteurs thermiques;1
+545400;motoculture de plaisance;1
+545800;motos, scooters (agents, concessionnaires);1
+548020;moules, modelages;1
+549600;moulures, profilés (fabrication);1
+549840;mousse synthétique;1
+551170;musées;0
+551200;auteurs, compositeurs, interprètes;1
+551880;musique, chant (leçons);0
+551910;musique (édition phonographique);1
+551930;musique : instruments, accessoires (fabrication);1
+551950;musique : instruments, accessoires (vente, location);0
+551970;musique : instruments, accessoires (réparation, entretien);1
+551990;librairies musicales;0
+552150;mutuelles d'assurances;0
+552190;mutuelles;0
+552280;mytiliculture;1
+552950;vaisselle, articles à usage unique (fabrication, gros);1
+554250;naturalistes-taxidermistes, entomologistes;1
+554890;nettoyage (entreprises);1
+554900;nettoyage industriel (matériel);1
+556800;non-tissés, ouates, produits textiles divers (fabrication);0
+557090;notaires;0
+559230;objets d'art, de collection (achat, vente);1
+561300;laboratoires d'oenologie;1
+561850;oeufs (production);1
+562200;offices de tourisme, syndicats d'initiative;0
+563800;opticiens;0
+563930;optique : instruments (fabrication);1
+564450;orchestres classiques, choeurs, chorales;1
+564520;orchestres de variétés;1
+565200;orfèvrerie;0
+565290;orfèvrerie (fabrication, gros);1
+566360;organisations internationales;1
+566650;organismes d'intervention agricole;1
+566750;organismes de développement économique;1
+566940;dépannage informatique;1
+567140;orientation, information scolaires et professionnelles;0
+567400;orthopédie générale;0
+568780;orthophonistes;0
+568930;orthoptistes;0
+569100;ostréiculture (matériel);1
+569380;ostréiculture;1
+570590;outillage pour le bâtiment;1
+570840;outillage électroportatif;1
+570910;outillage mécanique;1
+571120;outillage pneumatique;0
+571660;outils de découpage, d'emboutissage;1
+572420;outils à main (fabrication, gros);1
+574060;oxygène médical;1
+577870;panneaux de bois;1
+579400;établissements pénitentiaires;0
+579980;papeteries (fabrication, gros);1
+580120;papeteries : articles (fabrication);0
+580300;papeteries;0
+580710;papier, carton (matériel pour fabrication, transformation);1
+582550;papiers d'emballage (fabrication, gros);1
+582650;papiers (fabrication, gros);1
+583600;papiers peints (fabrication, gros);0
+583670;papiers peints (gros);0
+583740;papiers peints;1
+584700;papiers graphiques (fabrication, gros);1
+584750;papiers sanitaires, domestiques (fabrication, gros);1
+584800;papiers spéciaux (fabrication, gros);1
+584980;parachutisme;1
+585500;parapluies, ombrelles et cannes (fabrication);0
+586350;parafoudres, paratonnerres;1
+586460;parcs d'attractions, de loisirs;1
+586850;pare-brise, toits ouvrants (vente, pose, réparation);1
+587330;parfumerie, cosmétiques (fabrication, gros);1
+587430;parfumeries;0
+587540;parfumerie (matières premières);1
+587840;parkings (exploitation);0
+587980;parkings (équipements);1
+588720;parquets (fabrication, gros);1
+589040;parquets (pose, entretien, vitrification);1
+589370;partis politiques;0
+590040;centres de réadaptation, de convalescence;1
+591600;pâtes alimentaires;1
+591840;pâtes à papier (fabrication, importation);0
+592040;patinoires;0
+592640;pâtisseries;0
+592750;chocolateries, confiseries (fournitures);1
+594050;pavage (entreprises);1
+594220;paysagistes-conseils;0
+594420;paysagistes;1
+594720;façonnage d'impression (travaux);1
+595530;pêche, chasse : articles;1
+595600;pêche, chasse : articles (fabrication, gros);1
+595650;pêche et chasse (pratique de);0
+595800;pêche, pisciculture (matériel);1
+595810;pêcheries;1
+596410;podologues : pédicures-podologues;0
+597850;peintres en lettres;1
+597880;illustrateurs;1
+598150;peinture, vernis (vente);1
+598250;peinture : machines (installation);0
+598270;peinture (entreprises);1
+598300;peinture et vernis;0
+598400;peinture, vernis (fabrication, gros);1
+601310;hospitalisation à domicile : matériel;0
+603010;pensions pour chiens, chats;1
+603090;pensions de famille;0
+603390;pépiniéristes;1
+603460;pépiniéristes viticoles;1
+604740;perles;0
+604900;gendarmerie, police (services);0
+605230;permanence téléphonique;1
+605450;perruques;0
+606800;caves coopératives;1
+608260;pétrole, dérivés (distribution);1
+608300;pétrole (exploration, production);1
+608430;pétrole (raffineries);1
+609240;pharmacies;0
+609270;pharmacies (matériel);1
+609310;pharmacies (répartition, gros);1
+610100;philatélie;0
+611000;photo, vidéo (matériel);0
+611020;photographie et cinéma : appareils, films et accessoires (fabrication, gros);0
+611350;photocopie, reprographie, impression numérique;1
+611650;photocopieurs, reprographie (matériel);1
+611700;photogrammétrie;1
+612000;photographes de portraits;0
+612280;photographes de reportage;1
+612580;photographie aérienne;1
+612590;photographie et cinéma : matériel (réparation);0
+612600;photographie et cinéma : matériel (location);0
+612610;photographie, vidéo, cinéma (laboratoires, travaux);0
+612620;photos (développement, tirage);0
+612990;photographes : publicitaires, industriels;0
+613440;pré-presse, photogravure (travaux);0
+614340;photothèques;0
+614920;pianos (accordeurs, réparateurs);1
+615350;pianos (vente, location);1
+619990;pipelines (exploitation, entretien, construction);0
+620890;pisciculture;1
+621000;piscines (construction, entretien);1
+621250;piscines (établissements);0
+622020;piscines : matériel (fabrication, gros);1
+622030;piscines (matériel);1
+622040;pizzerias;0
+622640;placards (fabrication, installation);1
+623410;plafonds (pose);1
+623500;plage (articles);0
+624200;planches à voile (location, matériel);0
+625400;tirage de plans;1
+625960;plaques de plâtre (fournitures et pose);0
+626140;plaques professionnelles;1
+626730;plastification, collage, pelliculage (travaux);0
+627410;plates-formes et nacelles élévatrices (vente, location);0
+627500;plâtre, dérivés (fabrication, gros);1
+627670;plâtrerie (entreprises);1
+628200;plats préparés réfrigérés (fabrication, gros);1
+629360;plomberie (matériel);1
+629620;plombiers;1
+629740;sports subaquatiques;0
+631100;plumes, duvets (fabrication, gros);1
+631850;pneus (fabrication, gros);1
+631900;pneus (rechapage, recreusage, réparation);1
+631950;pneus (vente, montage);1
+632200;podo-orthésistes;0
+632350;poêles, poêles à bois;1
+633400;gestion du temps (systèmes);1
+633850;poissonneries;0
+633920;produits de la mer (fabrication, gros);1
+636070;pommes de terre (gros);1
+636500;pompes (fabrication, installation, réparation);1
+636820;pompes à chaleur;1
+637140;pompes funèbres;0
+637180;pompes funèbres, inhumations, crémations (fournitures);1
+638100;pompes à vide;1
+638390;ponçage de marbre;1
+638900;ponts roulants, portiques;1
+639750;porcelaines, faïences (fabrication, gros);1
+642570;portes automatiques, portes de garage;0
+642700;portes industrielles;1
+643210;portes, portails;1
+644200;portiers électroniques;1
+645600;ports fluviaux, maritimes;1
+645740;ports de plaisance;0
+645870;courrier, colis (envoi, distribution);1
+646020;poterie;0
+647500;location saisonnière;1
+649600;poupées (fabrication, vente, réparation);1
+651390;presses à former, à découper, à emboutir;1
+653190;prêt-à-porter et tailleurs : fournitures pour;0
+653600;prévention, traitement des pollutions;1
+655250;produits de l'agriculture biologique (production);1
+655600;produits de base pharmaceutiques (fabrication);1
+655780;produits chimiques (fabrication, gros);1
+655950;produits d'entretien (fabrication, gros);1
+656220;produits fermiers (vente directe);0
+656500;produits phytosanitaires;1
+656620;produits réfractaires (fabrication, gros);1
+662340;promoteurs immobiliers;1
+662350;promotion des ventes;1
+662440;propriété industrielle : brevets d'invention, marques, modèles, dessins;1
+662450;propriété littéraire, artistique;1
+663250;protection incendie;1
+663280;protection vol (matériel);1
+663300;protection vol (marquage);0
+663330;sécurité du travail, prévention des risques professionnels;1
+663680;prothèses (fournitures);1
+663780;prothèses oculaires (fabrication);1
+663850;prothésistes dentaires;0
+664200;pruneaux (production);1
+664310;psychanalystes;0
+664460;psychologues;0
+664560;psychomotriciens;0
+664950;psychothérapeutes;0
+666070;publicité aérienne;1
+666170;agences de publicité;1
+666520;publicité (édition);1
+667020;publicité sur le lieu de vente;1
+667220;publicité par l'objet;1
+667250;publicité (peinture, décoration);1
+667470;création publicitaire;1
+667500;régies publicitaires;1
+668100;puériculture, articles (fabrication, gros);1
+668850;pulvérisateurs;1
+670610;quincaillerie de bâtiment, d'ameublement;1
+670650;quincailleries;1
+670730;quincaillerie (fabrication);0
+670940;quincaillerie (fabrication, gros);1
+672540;raccords;1
+672700;radiateurs pour véhicules (vente, pose, réparation);1
+673210;radiesthésie;0
+673700;radio (stations);1
+673900;radio et télévision : équipement et matériel d'émission;0
+674320;radioélectricité : appareils (vente, réparation);0
+674690;radiocommunication (installation, matériel);1
+674700;téléphonie (vente);0
+675260;radio, TV, électronique grand public : matériel (fabrication);0
+675270;radio, TV, électronique grand public : matériel (gros);0
+675590;radiocommunications : matériel (fabrication, importation);0
+676610;ramonage;1
+677450;randonnées;0
+679080;ravalement de façades;1
+679750;rayonnages, mobilier métalliques;1
+680700;réceptions, séminaires (restaurants);1
+682360;organismes de recherches scientifiques;1
+682960;recouvrement (sociétés);1
+682980;cabinets de recrutement;1
+683650;rectification d'usinage, fraisage;1
+683800;récupération des huiles et graisses industrielles;0
+683870;déchets industriels (collecte, recyclage, valorisation);1
+683880;récupération, traitement des déchets divers;0
+683890;récupération, traitement des déchets : matériel;0
+683900;déchets fers, métaux (collecte, recyclage, valorisation);1
+683930;récupération, traitement des matières textiles;0
+683940;récupération, traitement des papiers et cartons;0
+683970;récupération, traitement des plastiques;0
+684580;réducteurs de vitesse;1
+684980;réfrigération, congélation : matériel (fabrication);1
+685200;refuges de montagne;0
+686560;relations publiques (agences);1
+686660;relaxation;0
+686930;reliure, dorure artisanale;1
+687840;thalassothérapie (centres);0
+688500;remorques de tourisme, attelages (vente, location);1
+688900;rénovation immobilière;1
+689220;renseignements financiers, commerciaux;1
+689700;restauration d'objets divers;1
+689800;repassage;0
+690100;repoussage sur métaux;1
+691830;résidences de tourisme, résidences hôtelières;0
+691840;résidences avec services;1
+691860;informatique : réseaux;1
+693200;ressorts;1
+693780;restaurants;0
+693850;restaurants d'entreprises, de collectivités;1
+694060;restaurants (matériel);1
+694120;restauration rapide;0
+694350;restauration collective : produits frais (fabrication, gros);1
+694420;restauration à domicile;0
+695740;informatique : constructeurs;1
+695750;revêtements électrolytiques, chimiques;1
+695770;revêtements industriels;1
+695920;revêtements non métalliques;1
+696260;revêtements de sols industriels;1
+696280;revêtements de sols, de murs (fabrication, gros);1
+696300;revêtements de sols, de murs (vente, pose);1
+696950;rhums (importation, distribution);1
+697800;rideaux, voilages, tissus d'ameublement;1
+699100;robes de mariée;1
+700030;robinetterie industrielle;1
+700220;robinetterie sanitaire (fabrication, gros);1
+703550;roulettes de manutention;1
+703860;roulements à billes (fabrication, gros);1
+704800;routage (sociétés);1
+706200;sablage, grenaillage, polissage;1
+706340;sables, cailloux, granulats;1
+707600;sacs, conteneurs textiles (fabrication, gros);1
+708310;sages-femmes;0
+709490;salle de bain (vente, installation);1
+709530;salles de bains : meubles et accessoires (fabrication);0
+710210;salons de thé;0
+710300;salons et sièges;0
+711740;salles de bain (équipements);1
+711820;sanitaires (installation);1
+711850;salles de bain, sanitaires (fabrication, gros);1
+711890;sanitaires (réparation d'émail);1
+711950;santons, figurines;0
+711970;sapeurs-pompiers, centres de secours;0
+712980;spas, saunas, hammams (fabrication, installation);1
+713100;saunas, hammams;0
+713540;savons, lessives (fabrication, gros);1
+714930;sciences occultes;0
+715230;scieries;1
+715770;scies (fabrication, gros);1
+716180;coopératives maritimes;0
+717220;sculpteurs sur bois;1
+717280;sculpteurs, statuaires;1
+718030;secrétariat, télésecrétariat;1
+718230;sécurité sociale;0
+718350;séjours linguistiques;0
+718830;sellerie, harnachement (fabrication);1
+719030;selliers garnisseurs;1
+719370;sels (gros);1
+719950;séminaires, congrès (organisation);1
+721380;sérigraphie;1
+722300;serres, châssis de couche;1
+722480;serrurerie (dépannage);1
+722650;serrurerie, métallerie;1
+724020;sexologie (pratiques hors d'un cadre réglementé);0
+725630;sièges, chaises, fauteuils (fabrication);1
+727850;signalétique intérieure, extérieure;1
+727880;signalisation routière, urbaine, de chantiers;1
+729270;silos, magasins à grains;1
+735210;soins à domicile;0
+735220;soins des cheveux;0
+735340;soins esthétiques (matériel);1
+735400;soins hors d'un cadre réglementé;0
+737500;sonorisation, éclairage;1
+737660;soudure (matériel);1
+738460;soudures (travaux);1
+740240;foyers pour jeunes travailleurs, étudiants;0
+741600;spectacles (entrepreneurs, producteurs);1
+741700;spectacles (conception, installation);1
+741870;spiritueux (fabrication, gros);0
+741910;sports et loisirs (infrastructures);0
+741920;sport (associations et clubs);0
+741930;sport (magasins);0
+742230;sports, loisirs : matériel (fabrication, gros);1
+742250;sports et loisirs : articles et équipements (gros);0
+742260;sports d'hiver, de montagne (clubs);0
+742280;sports d'hiver, de montagne (matériel);0
+742290;sports mécaniques (clubs, circuits, terrains);0
+742310;sports nautiques, aquatiques, subaquatiques (matériel);0
+742360;squash (clubs);0
+742800;staff, stuc (entreprises);1
+743680;stations-service;0
+744000;stations de sports d'hiver;0
+746750;sténotypie de conférences;1
+747480;stockage (matériel);1
+748740;stores : fournitures pour;0
+748790;stores;1
+749020;studios de cinéma, de télévision;1
+749350;stylistes;1
+749400;magasins bio;0
+750080;stylos, crayons;1
+750590;sucre (production);1
+751300;supermarchés, hypermarchés;1
+751980;surgelés (vente);0
+751990;surgelés (fabrication, gros);1
+752750;syndicats et ordres professionnels;0
+752830;syndicats de salariés;0
+752970;bureaux de tabac;0
+753180;tabac (fournitures pour bureaux);1
+753230;tabac (importation, exportation);1
+753280;tabac (manufactures);1
+754210;tableaux (restauration);1
+754300;tableaux, estampes, reproductions d'art;0
+757270;tailleurs de pierres;1
+757650;tailleurs : vêtements sur mesure;0
+758310;tampons encreurs et marqueurs;1
+759020;peaux (traitement, transformation);1
+760560;tapis (nettoyage);0
+760590;tapis d'Orient, d'artisanat;0
+760800;tapis, revêtements textiles (fabrication);0
+761070;tapis, tapisseries (reproduction, restauration);1
+761600;tapisseries d'art;1
+761740;tapissiers-décorateurs;1
+761780;tapisserie : matériel (fabrication, gros);1
+761850;tatouages;0
+762900;énergie solaire;1
+763490;pressings;0
+763900;teintures (fabrication, gros);1
+765260;télécommunication (systèmes);1
+765270;télécommunications : services;0
+765310;télécopieurs (vente, location, entretien);0
+765350;télématique (création de services, hébergement, conseils);0
+766300;téléphériques, transporteurs à câbles (fabrication, installation);0
+766580;téléphonie, péritéléphonie (vente, location, entretien);0
+766610;télécommunications (installateurs);0
+766620;téléphonie (installation);1
+767150;télésurveillance (systèmes);1
+767600;justice (services publics généraux);0
+767610;télévision (chaînes);1
+767990;télévision, vidéo, son (vente);1
+768050;dépannage de télévisions, vidéo, son;1
+768200;déchetteries;0
+768410;tennis (construction);1
+768480;tennis (terrains, clubs);0
+769300;terrains de sport, de jeu (aménagement);1
+769730;terrassement (entreprises);1
+770010;terre végétale, terreaux (vente, livraison);1
+770530;textiles : fournitures pour industries (fabrication, négoce);1
+770800;thalassothérapie, balnéothérapie (centres);0
+770900;thanatopracteurs;0
+770950;thé (importation, négoce);1
+771080;théâtre, ballet, danse (troupes, compagnies);0
+771150;théâtre, cinéma (décors, accessoires);1
+771720;théâtres et salles de spectacles;0
+771750;théâtres, spectacles (location de places);0
+773320;tir (stands);0
+774490;tissages à façon;1
+774870;tissus pour ameublement, passementerie (fabrication, gros);1
+774970;tissus (fabrication, gros);1
+774990;tissus pour l'habillement (fabrication, gros);1
+775560;tissus (vente);0
+775600;tissus techniques (fabrication, gros);1
+777400;titres restaurants (sociétés de gestion);1
+778200;toilettage de chiens, de chats;0
+779860;tôlerie;1
+779930;tôlerie de précision;1
+782120;tondeuses à gazon;1
+782600;tonnellerie;1
+782970;topographie (instruments);1
+783120;topographie (travaux);1
+784600;guides-interprètes, guides-conférenciers;1
+784650;organismes de tourisme;1
+784700;tourisme (sites, circuits);0
+785510;tourneurs sur bois;1
+787360;tracteurs, remorques agricoles;1
+787960;traducteurs;1
+788140;traitement des bois;1
+788160;traitement chimique des surfaces (matériel et installation);0
+788180;traitement du courrier (matériel);1
+788420;traitement des eaux (matériel);1
+788490;traitement des eaux (services);1
+788500;traitement mécanique des surfaces (matériel et installation);0
+788540;traitement des métaux;0
+788600;traitement de surfaces;1
+788800;énergies renouvelables;1
+788930;traitements thermiques;0
+789300;traiteurs;0
+789350;traiteurs, organisation de réception;1
+789370;traiteurs pour collectivités;1
+791080;transfusion sanguine;0
+792300;transport (conseils en organisation et gestion);0
+792310;transport en groupage-messagerie;0
+792330;transport intérieur (commissionnaires, auxiliaires, organisateurs de);0
+792360;transport international (commissionnaires de transport, transitaires, auxiliaires);0
+792390;transport maritime (commissionnaires, transitaires, courtiers et auxiliaires);0
+792930;transport aérien;1
+793100;transports d'animaux vivants;0
+793490;transports d'automobiles et autres véhicules;0
+793720;transports par citernes : granulaires et pulvérulents;0
+793740;transports par citernes : liquides industriels ou pétroliers;0
+793760;transports par citernes : liquides alimentaires;0
+793790;transports combinés (rail et route);0
+793920;transports de denrées et produits périssables;0
+793950;transport ferroviaire;1
+793980;transport de fonds, de valeurs;1
+794210;transport international;1
+794250;coursiers;1
+794280;transport maritime et fluvial;1
+794330;transport de masses indivisibles;1
+794400;transport express;1
+794700;transports d'objets d'art;0
+794780;transport de pianos, de coffres-forts;1
+794860;transport routier;1
+794940;transports urbains et régionaux de voyageurs;0
+795100;transports par voies navigables;0
+795330;travail protégé (entreprises adaptées);0
+795380;travaux d'accès difficile;1
+795420;travaux agricoles;1
+795700;travaux ferroviaires;1
+795840;travaux maritimes, hydrauliques, fluviaux;1
+796210;travaux publics;1
+796370;travaux routiers (entreprises);0
+796950;tréfileries;1
+798600;tricotage (façonniers);1
+798810;tricots et pulls (détail);0
+798830;tricots et pulls (fabrication, gros);0
+798850;clubs de rencontres;0
+800400;triperies;0
+800470;triperie (gros);0
+801070;tronçonneuses;1
+802930;tubes électroniques et semi-conducteurs (fabrication);0
+803750;tubes et tuyaux en métaux ferreux (fabrication, négoce);0
+803760;tubes, tuyaux en caoutchouc et plastique (fabrication, gros);1
+803770;tubes, tuyaux en métaux non ferreux;1
+805590;tuyauterie industrielle;1
+807300;uniformes (fabrication);0
+807600;urbanistes;1
+808300;villages, clubs de vacances;1
+808400;centres de vacances et de loisirs pour enfants;0
+808600;vannerie;1
+809220;vannerie;1
+809660;vannes (fabrication, gros);1
+811000;croisières;1
+811900;véhicules industriels (construction, importation);1
+812000;ventes aux enchères publiques : sociétés de ventes volontaires de meubles;0
+812010;commissaires-priseurs judiciaires;0
+812020;experts agréés par le Conseil des ventes volontaires de meubles aux enchères publiques;0
+813520;vente en ligne, par correspondance;0
+813900;ventilateurs (fabrication, gros);1
+814010;vérandas;1
+815200;vérins, treuils, palans;1
+816550;vernisseurs;1
+817400;verre optique (fabrication, importation);1
+817500;verrerie d'art;1
+817530;verrerie, cristallerie (fabrication, gros);0
+817620;verrerie industrielle;1
+819420;vêtements pour bébés et enfants (fabrication, gros);0
+820320;vêtements cuir, peau;0
+820350;vêtements de cuir et de peau (fabrication, gros);0
+820400;vêtements femmes;0
+820420;vêtements pour femmes (fabrication);0
+820510;vêtements enfants;0
+820580;vêtements pour hommes (fabrication);0
+820650;vêtements (fabrication, gros);1
+820660;vêtements hommes;0
+820790;vêtements en maille (fabrication);0
+820850;balnéothérapie (centres);1
+820870;crématoriums;1
+820960;vêtements d'occasion (gros);0
+820980;vêtements de pluie et de protection (fabrication);0
+821180;vêtements de travail, professionnels (vente);1
+821190;vêtements de travail, professionnels (fabrication, gros);1
+821200;vêtements, accessoires de protection;1
+821210;vêtements bébés, articles de puériculture;0
+821220;vêtements futures mamans;0
+821250;vêtements sportswear;0
+821260;vêtements sport : sportswear (fabrication);0
+821290;vêtements de sport (fabrication);0
+821430;hospitalisation à domicile (structures de soins);0
+821510;vétérinaires (matériel);1
+821710;vétérinaires;0
+821960;viandes (gros);1
+821970;viandes de porc (gros);0
+822890;vidange, curage;1
+823700;vidéo professionnelle;1
+825150;vinification (matériel);1
+825800;vins (coopératives, unions de producteurs);0
+825950;vins (courtiers);1
+826460;vins (vinificateurs);1
+826490;vins (producteurs, vente directe);1
+826550;vins, spiritueux, alcools (négociants);1
+826560;cavistes;0
+828290;viticulture (matériel);1
+828530;vitrages de sécurité, de protection solaire;1
+828650;vitrages, miroirs (fabrication);1
+829260;vitraux d'art;1
+829410;vitrerie;1
+829970;vitrines d'intérieur;1
+830750;voile, sports nautiques (pratique de);0
+831790;voitures sans permis;1
+831810;vol : systèmes de protection de magasins;1
+832450;volailles, gibiers;0
+832480;volailles et gibiers (gros);0
+832540;volets, persiennes;1
+832560;volets roulants;1
+835990;yoga (cours);0
+850000;balnéothérapie (matériel);1
+850001;murs végétaux;1
+850002;vélos électriques;0
+850003;boulangeries-pâtisseries bio (artisans);0
+850004;caviar;0
+850005;champagne;1
+850006;épiceries asiatiques;0
+850007;autopartage;0
+850008;paysagistes d'intérieur;1
+850009;paysagistes conseils;1
+850010;ballons publicitaires;1
+850011;épiceries italiennes;0
+850012;épiceries orientales;0
+850013;épiceries portugaises;0
+850014;épiceries russes;0
+850017;huile d'olive;0
+850018;macarons;0
+850019;pâtisseries orientales;0
+850020;dragées;0
+850021;rôtisseries;0
+850022;truffes;0
+850023;whisky;1
+850024;dragage;1
+850025;hydrogéologie;1
+850026;travaux routiers;1
+850027;assurance automobile;0
+850028;assurance habitation;0
+850029;assurance moto;0
+850030;gadgets, souvenirs, carteries;0
+850031;assurance santé;0
+850032;défiscalisation;1
+850034;or (achat, vente);0
+850035;laboratoires photo;0
+850036;réparation de matériel photo;1
+850037;photographes de mariages;1
+850038;photographes de mode;1
+850039;photos d'identité;0
+850040;domotique;1
+850041;transferts numériques (films, photos);1
+850042;chaudières à bois;1
+850043;vente, installation de chauffe-eau solaire;1
+850044;cheminées éthanol;1
+850045;clôtures béton;1
+850046;clôtures bois;1
+850047;clôtures PVC;1
+850049;coordonnateurs SPS;1
+850050;films de sécurité, de protection solaire;1
+850053;escaliers bois;1
+850054;étanchéité de toitures;1
+850055;faïence murale;1
+850056;faux plafonds;1
+850057;fenêtres aluminium;1
+850058;fenêtres bois;1
+850059;fenêtres PVC;1
+850060;gazon en plaques, en rouleaux;1
+850061;fenêtres de toit;1
+850062;grillages métalliques;1
+850063;gros oeuvre (entreprises);1
+850064;interphones;1
+850065;inserts;1
+850066;isolation des combles;1
+850067;isolation écologique;1
+850068;isolation extérieure;1
+850069;isolation phonique;1
+850070;badminton;0
+850071;isolation thermique;1
+850072;isolation de toitures;1
+850073;menuiserie d'agencement;1
+850074;menuiserie aluminium;1
+850075;menuiserie bois;1
+850076;menuiserie extérieure;1
+850077;menuiserie intérieure;1
+850078;mosaïque (vente);1
+850079;moustiquaires;0
+850080;karaoké;0
+850081;nettoyage de cuves;1
+850082;plafonds suspendus;1
+850083;poêles à granulés;1
+850085;vente, installation de chauffage au fioul;1
+850086;nettoyage de façades;1
+850087;portails aluminium;1
+850088;portails PVC;1
+850089;rénovation de fenêtres;1
+850090;lits escamotables;1
+850091;rénovation de parquets;1
+850092;rénovation de toitures;1
+850093;revêtements écologiques;1
+850094;volets bois;1
+850095;volets PVC;1
+850096;barbecues;1
+850098;canapés cuir;1
+850099;compostage (matériel);0
+850100;diagnostics immobiliers;1
+850101;débroussailleuses;1
+850102;déménagements internationaux;1
+850103;diagnostic assainissement;1
+850104;diagnostic électrique;1
+850105;diagnostic gaz;1
+850106;diagnostics risques naturels, technologiques;1
+850107;diagnostic plomb;1
+850108;diagnostic termites;1
+850109;fauteuils de relaxation;1
+850110;location de vaisselle;1
+850111;feng shui;0
+850112;futons;1
+850113;gestion locative;1
+850114;lits à eau;1
+850115;boxes de stockage industriel;1
+850116;location de garages, de parkings;1
+850117;immobilier de prestige;1
+850118;location de meublés;1
+850119;location de motoculteurs;1
+850120;maisons à ossature bois;0
+850121;location de ponceuses;1
+850122;location de shampouineuses;1
+850123;location de studios (immobilier);1
+850124;location de tondeuses;1
+850125;location de tronçonneuses;1
+850126;location de villas à l'étranger;1
+850127;matelassiers;1
+850128;meubles anglais;1
+850129;meubles contemporains;1
+850130;location de voitures de prestige;1
+850131;meubles métalliques;1
+850132;meubles d'occasion;1
+850133;meubles peints;1
+850134;meubles de style;1
+850135;orchidées;0
+850136;piscines en bois;1
+850137;piscines hors sol;1
+850138;piscines naturelles;1
+850139;planchas;0
+850140;démoussage, traitement des toitures;1
+850141;plantes aquatiques;0
+850142;récupérateurs d'eau de pluie;1
+850143;réparation de tondeuses;1
+850144;rosiéristes;1
+850145;salles de bain (accessoires);1
+850146;viager;1
+850147;démoustication;1
+850148;dépigeonnisation;1
+850149;nettoyage de bâtiments;1
+850150;tee-shirts (personnalisation);1
+850151;nettoyage de hottes;1
+850152;nids de guêpes, frelons (destruction);1
+850153;traitement anti-cafards;1
+850154;assurance vie;0
+850155;dépannage d'ascenseurs;1
+850156;dépannage de chauffage au fioul;1
+850157;dépannage électricité;1
+850158;dépannage plomberie;1
+850159;dépannage vitrerie;1
+850160;sépultures (entretien);0
+850161;jeanneries;0
+850163;location de robes de mariée;0
+850164;paniers bio;0
+850165;pêcheurs professionnels;1
+850166;portails bois;1
+850167;récolte (matériel);1
+850169;volets aluminium;1
+850170;bilans de compétences;1
+850171;agences photographiques de presse;1
+850172;enseignes lumineuses;1
+850173;instituts de sondage;1
+850174;lettres adhésives;1
+850175;marquage de véhicules;1
+850176;panneaux publicitaires;1
+850177;publicité adhésive;1
+850178;vétérinaires : élevage et pathologie des équidés;0
+850179;étiopathie;0
+850180;couverture en chaume;1
+850181;fauteuils roulants (vente, location);1
+850182;graphothérapie;0
+850183;hypnothérapie;0
+850184;lits médicalisés;1
+850185;maisons de repos;1
+850186;naturopathie;0
+850187;magnétiseurs;0
+850188;fournitures pour prothèses mammaires;1
+850189;réflexologie plantaire;0
+850190;coaching;1
+850193;bourreliers;0
+850196;dépannage de poids lourds;1
+850197;embrayages;1
+850199;permis accéléré;0
+850200;quads (vente, réparation);1
+850201;permis motos;0
+850202;permis poids lourds;1
+850203;pneus motos;1
+850210;GPL (installation, équipements);1
+850220;kayaks (matériel);1
+850230;meubles anglais;1
+850240;mobilité professionnelle (conseils);1
+850248;cueillette;1
+850249;vente au détail d'huîtres;0
+850250;conseils en image;1
+850251;travaux d'irrigation agricole;1
+850252;agents de sécurité;1
+850253;alarmes habitation;1
+850254;contrôle d'accès (systèmes);1
+850255;détecteurs de fumée;1
+850257;vidéosurveillance (systèmes);1
+850258;animaleries reptiles;1
+850259;maraîchers bio;0
+850260;naturisme;1
+850261;aquariophilie;0
+850262;éducateurs canins;0
+850263;garde d'animaux à domicile;0
+850264;oiselleries;1
+850265;incinération pour animaux;1
+850266;toilettage de chiens, de chats à domicile;0
+850267;location de télévisions;1
+850268;vente, location de vidéoprojecteurs;1
+850269;paraboles;1
+850270;onduleurs;1
+850271;télévision, son (auditorium, showroom);1
+850273;adoucisseurs d'eau (installation, maintenance);1
+850274;matériel pour adoucisseurs d'eau;1
+850276;béton cellulaire;1
+850277;bois d'ébénisterie;1
+850278;calorifugeage;1
+850279;épilation hommes;0
+850280;remorques, semi-remorques industrielles;1
+850281;épilation par lumière pulsée;0
+850282;épilation orientale;0
+850283;matériel d'épilation;1
+850284;modelage esthétique (matériel);0
+850285;piercings;0
+850286;réflexologie;0
+850287;shiatsu;0
+850288;anodisation;1
+850289;microbillage;1
+850290;Internet : référencement de sites;1
+850291;bagages, accessoires de voyage;0
+850292;chaussures de sécurité;1
+850293;chaussures de sport;0
+850294;cravates;0
+850295;dépôts-ventes bébés, enfants;0
+850296;foulards;0
+850297;entretien, nettoyage de fourrures;0
+850298;friperies;0
+850299;fabrication de gants;0
+850300;béton (sciage, percement);1
+850301;location de costumes;0
+850302;magasins d'usine;1
+850303;maillots de bain;0
+850304;parapluies;0
+850305;surplus militaires;0
+850306;uniformes (fabrication, gros);1
+850307;vêtements médicaux;1
+850308;accompagnement de personnes âgées, dépendantes, handicapées;0
+850309;animation de mariages;1
+850310;transferts industriels;1
+850311;clowns;1
+850312;DJ animation;1
+850313;livraison de repas à domicile pour personnes dépendantes;0
+850314;location de barnums;1
+850315;déguisements (magasins);0
+850316;magiciens;1
+850319;téléassistance;0
+850320;autographes, documents anciens;0
+850321;députés (permanences);0
+850322;compagnies aériennes;1
+850323;compagnies maritimes;1
+850324;coursiers à vélo;1
+850325;transport d'animaux;1
+850326;transport d'automobiles;1
+850327;transport de bagages;1
+850328;transport de bateaux;1
+850329;transport multimodal;1
+850330;interprétation simultanée (matériel);1
+850331;transport d'objets d'art;1
+850332;alternateurs;1
+850333;amortisseurs;1
+850334;location de voitures à double commande;1
+850335;location de voitures sans permis;1
+850336;mandataires automobiles;1
+850337;lavage de poids lourds;1
+850338;location de limousines;1
+850340;archeries;1
+850350;navettes gare, aéroport;1
+850360;astronomie;0
+850370;chapes;1
+850380;boîtes à lettres;0
+850390;classement (meubles, systèmes);1
+850400;contrôle, vérification d'instruments de mesure;1
+850410;motos avec chauffeur;1
+850420;étangs, plans d'eau (aménagement);0
+850430;jeux de plein air (fabrication, gros);1
+850440;location de climatiseurs;1
+850450;certification, normalisation (organismes);1
+850460;matériaux de construction anciens;1
+850470;pensions pour chevaux;1
+850480;patchwork;0
+850494;aromathérapie;0
+850495;coiffeurs coloristes;0
+850496;coiffeurs enfants;0
+850497;coiffeurs femmes;0
+850498;coiffeurs hommes;0
+850499;coiffeurs mariage;0
+850500;semelles orthopédiques;0
+850501;coiffeurs sans rendez-vous;0
+850502;coiffeurs visagistes;0
+850503;relooking;1
+850504;manucure à domicile;0
+850505;pose d'ongles;0
+850506;épilation à domicile;0
+850508;biomasse énergie;1
+850509;bilans énergétiques, thermiques;1
+850510;portage de médicaments à domicile;0
+850511;plates-formes de compostage;1
+850512;déchets (études, contrôles);1
+850513;études, contrôles en développement durable;1
+850514;déchets du bâtiment (collecte, recyclage, valorisation);1
+850515;déchets médicaux (collecte, recyclage, valorisation);1
+850516;déchets métaux non ferreux (collecte, recyclage, valorisation);1
+850517;déchets plastiques (collecte, recyclage, valorisation);1
+850518;enlèvement d'encombrants;1
+850519;ressourceries;0
+850520;surgelés (livraison à domicile);1
+850521;transport de personnes à mobilité réduite;0
+850522;informatique : assistance technique utilisateurs;0
+850523;informatique d'occasion;0
+850524;micro-informatique;0
+850530;spas;0
+850540;démarches administratives (prestataires);0
+850550;visioconférence (matériel);1
+850565;meubles, objets d'Asie;1
+850566;meubles d'enfants;1
+850567;meubles en rotin;1
+850570;conciergeries;0
+850580;chèques cadeaux;1
+850590;communication événementielle;1
+850600;Internet : logiciels, outils de développement;1
+850610;Internet : espaces de consultation;0
+850620;jet skis;1
+850630;barbiers;0
+850640;karting;1
+850650;casses motos;1
+850660;roller (matériel);0
+850670;boxes de stockage individuel;1
+850680;nettoyage de graffitis;1
+850690;location de toilettes mobiles;1
+850700;vêtements grandes tailles;0
+850710;cafés-théâtres;0
+850720;cerfs-volants;0
+850730;char à voile (clubs);0
+850740;golf (matériel);0
+850750;murs d'escalade;0
+850760;spéléologie;0
+850770;visioconférence (services);1
+850790;salles des ventes;1
+850800;télégrammes : services d'expédition;0
+850810;monte-escaliers;1
+850820;reliure (matériel);1
+850830;marqueterie d'art;1
+850840;abris pour piscines;1
+850850;hospitalisation à domicile : matériel;0
+850860;émaux d'art;1
+850870;paintball;0
+850880;protection sécurité piscines;1
+850890;renseignements téléphoniques (services);1
+850900;meubles en pin;1
+850910;géothermie;1
+850920;centres culturels, maisons des arts;0
+850930;organisation de mariages;1
+850940;location de camping-cars;1
+850950;experts maritimes;1
+850960;terrasses, balcons (aménagement);1
+850970;plafonds tendus;1
+850980;vêtements de cérémonie;0
+850990;transport scolaire;1
+900000;accordéons;0
+900010;aciers inoxydables;1
+900020;affiches de collection;0
+900030;matériel d'alpinisme, d'escalade;0
+900040;aménagement de terrasses;0
+900050;spectacles d'animaux;0
+900060;antiquités anglaises;0
+900070;matériel apicole;1
+900080;argenterie ancienne;0
+900090;armes anciennes;0
+900110;assainissement des étangs et plans d'eau;0
+900120;balayage industriel;1
+900130;librairies de bandes dessinées;0
+900140;pubs, bars à bière;0
+900150;bars à vin;0
+900170;bonsaïs;0
+900180;matériel pour bowlings;1
+900190;boxes pour chevaux;1
+900220;cabines industrielles;0
+900250;calissons;0
+900260;camions-magasins;1
+900270;camions-grues;1
+900280;cartes postales anciennes;0
+900290;reconditionnement de cartouches d'imprimantes;1
+900310;location de chambres funéraires;0
+900320;chanteurs;1
+900340;charpentes lamellées collées;1
+900360;jeux, décors gonflables;1
+900370;chaussures tailles extrêmes;0
+900380;chaussures enfants;0
+900390;machines de traitement des chèques;1
+900400;chèques d'accompagnement personnalisé;0
+900410;cintres pour vêtements;1
+900420;matériel pour circuits imprimés;0
+900430;claustras;1
+900440;cloisons japonaises;1
+900450;équipements pour systèmes à codes-barres;1
+900460;coiffure africaine;0
+900470;collèges, lycées avec internat;0
+900480;gestion du courrier;1
+900490;coussins lyonnais;0
+900510;matériel pour crêperies;1
+900520;crêpes, galettes à emporter;0
+900530;cybercafés;0
+900540;dallages en béton;1
+900560;détection de fuites;1
+900570;diamants industriels;1
+900580;distributeurs de préservatifs, d'articles d'hygiène;0
+900590;accastillage;1
+900600;e-commerce : solutions, conseils;1
+900620;encens, senteurs;0
+900640;centres d'épilation;0
+900650;escargots;1
+900660;experts et techniciens en état parasitaire de l'immobilier;0
+900670;organisation de fêtes enfantines;1
+900680;fleurs séchées;0
+900690;forages horizontaux;1
+900700;futons;1
+900740;stations-service avec GPL;0
+900750;appareils de graissage;1
+900760;supermarchés, hypermarchés : vente en ligne;1
+900770;guinguettes;0
+900780;matériel pour gymnastique, fitness;0
+900790;hayons élévateurs;1
+900810;Internet : réservation de noms de domaines;1
+900830;inventeurs, produits nouveaux;1
+900840;appareils d'ionisation  de l'air;0
+900850;parcs, jardins à visiter;1
+900860;jouets anciens;0
+900870;matériel de karaoké;1
+900880;laqueurs;0
+900890;lauzes;0
+900900;lits à eau;1
+900910;location de camping-cars;1
+900920;location de minibus;1
+900930;location de 4 X 4;1
+900940;location de véhicules publicitaires;1
+900950;location de véhicules frigorifiques;1
+900960;location de villas à l'étranger;1
+900970;location de voiliers habitables;1
+900990;machines à signer;1
+901010;maquilleuses;0
+901020;marketing digital;1
+901050;meubles et bibelots d'Asie;0
+901060;meubles peints;1
+901080;mobilier pour hôtels;1
+901090;mobilier pour l'informatique;0
+901100;outillage et fournitures pour modélisme;0
+901120;création de mosaïque;0
+901130;motoskis;0
+901140;mouleurs statuaires;0
+901150;moulins à huile;1
+901160;multimédia (effets spéciaux, numérisation);1
+901180;nettoyage de fourrures;0
+901190;nettoyage de matériel informatique;0
+901200;nettoyage de ventilations;1
+901230;nettoyage par sablage humide;1
+901250;notices, manuels techniques;1
+901260;nougats;0
+901270;orgues de Barbarie;1
+901290;pêche en mer de loisirs;0
+901300;peinture en trompe-l'oeil;1
+901310;arbres fruitiers;1
+901320;permis de conduire : stages de récupération de points;0
+901330;décapage de persiennes, de volets;1
+901340;pièces pour camions, autocars;1
+901350;pièces pour engins de travaux publics;1
+901360;pièces pour machines agricoles;1
+901370;voitures de collection;1
+901380;plafonds tendus;1
+901390;porcelaine d'art;1
+901400;pouzzolane, pierres volcaniques;1
+901410;matériel de prestidigitation;0
+901430;réparation de rasoirs électriques;1
+901450;rondelles métalliques;1
+901460;installation, entretien de salles blanches;1
+901470;saut à l'élastique;1
+901490;librairies de science-fiction;0
+901500;équipement de secours, de survie;1
+901520;réalisation, conseils en signalétique;1
+901550;stimulation des ventes;1
+901560;location de studios de répétition;1
+901570;supports pour cycles;0
+901580;revêtements de sols sportifs;1
+901590;taupiers;1
+901600;thermomètres;0
+901630;traitement anti-nuisibles;1
+901640;transport d'animaux de compagnie;0
+901650;transport de bateaux;1
+901660;travaux sous-marins;1
+901670;tribunes, gradins;1
+901680;clubs d' ULM;0
+901690;vans;1
+901710;voileries;1
+901990;assistance à domicile : services d'assurances;0
+902010;balustres;0
+902050;découpage de papier, de carton;1
+902060;aménagement, entretien d'étangs, de plans d'eau;1
+902100;entreposage d'objets d'art;1
+902120;rôtissoires;0
+902250;fixations industrielles;1
+902270;centres d'appel : équipements, logiciels;0
+902280;composants d'automatisme;0
+902290;chronométrie : installations;0
+902300;écoles de ski;0
+902310;électrificateurs et clôtures électriques;0
+902320;fabrication de chapiteaux;1
+902330;holographie;1
+902340;équipements de marquage, d'étiquetage;1
+902350;maîtres d'hôtel;0
+902360;transport de bagages;1
+902370;treillages;1
+902380;vibrateurs;1
+902390;installations hi-fi pour automobiles;1
+902400;dépannage, remorquage motos;1
+902430;bassets Hound (élevage);0
+902440;beagles (élevage);0
+902450;bearded Collies (élevage);0
+902460;élevages de bergers allemands;1
+902470;élevages de bergers beaucerons;1
+902480;élevages de bergers belges;1
+902490;bergers briards (élevage);0
+902500;bouviers des Flandres (élevage);0
+902510;bergers des Pyrénées (élevage);0
+902520;bergers shetland (élevage);0
+902530;élevages de bichons frisés;1
+902540;élevages de bichons maltais;1
+902550;élevages de bobtails;1
+902560;border Collies (élevage);0
+902570;élevages de bouledogues;1
+902580;bouviers bernois (élevage);0
+902590;bouviers suisses (élevage);0
+902600;élevages de boxers;1
+902610;braques allemands (élevage);0
+902620;bullmastiffs (élevage);0
+902630;élevages de cairn terriers;1
+902640;élevages de caniches;1
+902650;chats bleus russes (élevage);0
+902660;chats british (élevage);0
+902670;chats Norsk Skogatt (élevage);0
+902680;élevages de chats persans;1
+902690;chats Rex (élevage);0
+902700;chiens des Montagnes des Pyrénées (élevage);0
+902710;élevages de chihuahuas;1
+902720;cockers américains (élevage);0
+902730;élevages de cockers anglais;1
+902740;élevages de colleys;1
+902750;dalmatiens (élevage);0
+902760;dobermans (élevage);0
+902770;dogues allemands (élevage) (Pub);0
+902780;élevages d'épagneuls bretons;1
+902790;fox-terriers (élevage);0
+902800;élevages de golden retrievers;1
+902810;griffons (élevage);0
+902820;élevages d'huskies sibériens;1
+902830;élevages de cavaliers King Charles;1
+902840;lévriers (élevage);0
+902850;lhassa Apso (élevage);0
+902860;mâtins pyrénéens (élevage);0
+902870;pékinois (élevage);0
+902880;riesenschnauzers (élevage);0
+902890;rottweilers (élevage);0
+902900;scottish terriers (élevage);0
+902910;setters Gordon (élevage);0
+902920;sharpei (élevage);0
+902930;élevages de Shih Tzu;1
+902940;élevages de spitz;1
+902950;élevages de teckels;1
+902960;terre-Neuve (élevage);0
+902970;terriers tibétains (élevage);0
+902980;élevages de terriers Westie;1
+902990;élevages de Yorkshire terriers;1
+903000;whippets (élevage);0
+903010;clubs de canoë-kayak;0
+903020;centres de formation de moniteurs d'auto-écoles;0
+903040;formation sécurité incendie;1
+903050;cours d'initiation en informatique et Internet;0
+903060;crématoriums;1
+903070;golfs miniatures;0
+903080;improvisation théâtrale;0
+903090;clubs de nage en eau vive;0
+903100;clubs de rafting;0
+903110;clubs de surf;0
+903120;typographie;1
+903130;boîtes de vitesse;1
+903170;superficie de biens immobiliers : mesurage;0
+903180;matériel de calligraphie;0
+903190;scaphandriers;1
+903250;jet skis (vente, location);0
+903260;auberges de jeunesse;0
+903270;organismes de placement au pair;1
+903290;extension de cheveux;0
+903310;accessoires, vêtements de moto;0
+903320;tuning;1
+903340;salles de jeux en réseaux;0
+903350;élevages de Jack Russell terriers;1
+903360;élevages de labradors;1
+903370;serrures (fabrication, gros);1
+903390;traitement des pièces, des billets;1
+903410;vente d'autocars;1
+903420;culture hors-sol;0
+903430;outils pour taille de pierres;1
+903450;matériel de jonglerie;0
+903460;climatisation automobile;1
+903470;douches autobronzantes;0
+903480;fauteuils de relaxation;1
+903490;cours de cuisine;0
+903500;cours d'art floral;0
+903510;matériel de surf;0
+903520;matériel de parapente;0
+903540;conseils, formation en management de la qualité;1
+903550;imagerie non médicale (échographie 3D);0
+903570;pièces, accessoires de 4 X 4;1
+903580;stages de pilotage automobile;1
+903700;rachat de crédits;0
+903760;sex-shops;0
+903770;chasseurs immobiliers;1
+903780;jeux et paris en ligne;0
+904010;granulés de bois;1
+904040;charpentes lamellées collées;1
+904080;chaudronnerie industrielle;1
+904090;chaudronnerie inoxydable;1
+904110;fonderies de métaux ferreux;1
+904120;fonderies de métaux non ferreux;1
+904130;peinture industrielle;1
+904140;vente de peinture, de vernis écologiques;1
+904150;sols en résine;1
+904160;tôlerie industrielle;1
+904170;tôlerie de précision;1
+904180;traitement thermique de surfaces;1
+904190;skippers;0
+904200;studios photos;1
+904210;terrasses en bois;1
+904220;thermolaquage;1
+904240;transpalettes, gerbeurs;1
+904250;transport de mobile homes;1
+904260;transport par bennes;1
+904280;viabilisation de terrains;1
+904290;voitures électriques;1
+904300;zinguerie;1
+904310;home staging;1
+904320;huiles essentielles;0
+904330;injection plastique;1
+904340;kebab;0
+904350;lambris;1
+904360;location de camions de déménagement;1
+904370;location de camions plateaux;1
+904380;location de grues;1
+904390;location de mini-pelles;1
+904400;maîtres-chiens;1
+904410;marquage au sol;1
+904420;matériaux de construction écologiques;1
+904430;mobilier informatique;1
+904440;monte-meubles;1
+904450;entreprises de nettoyage industriel;1
+904460;nettoyage de vitres;1
+904470;nettoyeurs haute pression;1
+904480;sociétés de numérisation, de dématérialisation;1
+904490;cabinets d'outplacement;1
+904500;oxycoupage;1
+905000;alarmes incendie;1
+905010;aérothermie;1
+905020;air comprimé;1
+905030;agrandissement, extension de maison;1
+905040;recherches archéologiques;1
+905050;bambous;0
+905060;béton ciré;1
+905070;béton décoratif;1
+905080;béton désactivé;1
+905090;béton préfabriqué;1
+905100;bois exotique;1
+905110;bois en grumes;1
+905120;bois de placage;1
+905130;agences d'intérim, d'emploi pour le BTP;1
+905140;boucheries casher;0
+905150;boucheries halal;0
+905160;vente, location de bungalows;1
+905170;cartes de visite, faire-part;1
+905180;cartons de déménagement;1
+905190;centrales à béton;1
+905200;cimenteries;0
+905210;cloisons amovibles;1
+905220;cloisons sèches;1
+905230;commerce équitable d'alimentation;0
+905240;centres d'affaires (sociétés);1
+905250;chromage;1
+905260;sociétés de contrôle médical;1
+905270;commerce équitable de meubles, d'artisanat;1
+905280;commerce équitable de vêtements;0
+905290;agences de communication visuelle;1
+905300;comportementalistes animaliers;1
+905310;contrôle technique de poids lourds;1
+905320;cosmétiques bio;0
+905330;courtiers, négociants en bois;1
+905340;création d'entreprises (conseils);1
+905350;débouchage de canalisations;1
+905360;déchets verts (collecte, recyclage, valorisation);1
+905370;découpe par jet d'eau;1
+905380;découpe laser;1
+905390;découpe de verre;1
+905400;désamiantage (entreprises);1
+905410;désenfumage;1
+905420;designers industriels;1
+905430;diagnostic amiante;1
+905440;diagnostic énergétique;1
+905450;dressings (fabrication, installation);1
+905460;emballages alimentaires;1
+905470;éoliennes;1
+905490;garde-corps;1
+905500;gravure laser;1
+905510;caisses-palettes;1
+905520;panneaux photovoltaïques;1
+905530;pergolas;1
+905540;pesage industriel;1
+905550;photogrammétrie;1
+905560;plans de travail;1
+905570;plaques d'immatriculation;0
+905580;plates-formes logistiques;1
+905590;polystyrène;0
+905600;pompes de relevage;1
+905610;portes blindées;1
+905620;portes coupe-feu;1
+905630;portes sectionnelles;1
+905640;puits canadiens;1
+905650;quincaillerie industrielle;1
+905660;papier, carton (collecte, recyclage, valorisation);1
+905670;matériel de récupération, de recyclage des déchets;1
+905680;déchets informatique, bureautique (collecte, recyclage, valorisation);1
+905700;agences d'intérim, d'emploi pour l'industrie;1
+905710;agences d'intérim, d'emploi pour l'informatique;1
+905720;agences d'intérim, d'emploi pour le médical;1
+905730;agences d'intérim, d'emploi pour l'hôtellerie et la restauration;1
+905740;agences d'intérim, d'emploi pour le tertiaire;1
+905750;agences d'intérim, d'emploi pour le transport;1
+914020;handicapés : travail protégé, entreprises adaptées;1
+914030;centres culturels, maisons des arts;0
+914040;nacelles élévatrices;1
+914050;canapés, salons (magasins);1
+914060;écoles, moniteurs de ski;0
+914070;guides de montagne;0
+914080;matériaux de construction anciens;1
+914090;constructeurs de maisons en bois;1
+914100;salles des fêtes;0
+914110;parcs naturels nationaux, régionaux;1
+914120;vélos en libre-service;0

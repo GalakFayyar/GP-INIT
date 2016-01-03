@@ -1,0 +1,321 @@
+{
+	"geopro": {
+		"activites": {
+			"properties": {
+				"code_activite": {
+					"type": "string"
+				},
+				"commune": {
+					"properties" : {
+						"code_commune": {
+							"type": "string",
+							"analyzer": "lower_keyword"
+						},
+						"libelle": {
+							"type": "string",
+							"analyzer": "lower_keyword"
+						},
+						"centroid_y": {
+							"type": "float"
+						},
+						"centroid_x":  {
+							"type": "float"
+						},
+						"type": {
+							"type": "string"
+						},
+						"geometry": {
+							"type": "geo_shape"
+						}
+					}
+				},
+				"pot_audience": {
+					"type": "string"
+				},
+				"paniers": {
+					"properties": {
+						"panier1": {
+							"type": "float"
+						},
+						"panier2": {
+							"type": "float"
+						},
+						"panier3": {
+							"type": "float"
+						},
+						"panier4": {
+							"type": "float"
+						},
+						"panier5": {
+							"type": "float"
+						},
+						"panier_total": {
+							"type": "float"
+						}
+					}
+				},
+				"nb_recherches": {
+					"properties": {
+						"total": {
+							"properties": {
+								"somme": {
+									"type": "float"
+								},
+								"mensuel": {
+									"type": "string"
+								}
+							}
+						},
+						"alpha": {
+							"properties": {
+								"somme": {
+									"type": "float"
+								},
+								"mensuel": {
+									"type": "string"
+								}
+							}
+						},
+						"pures": {
+							"properties": {
+								"somme": {
+									"type": "float"
+								},
+								"mensuel": {
+									"type": "string"
+								}
+							}
+						}
+					}
+				},
+				"nb_clics": {
+					"properties": {
+						"total": {
+							"type": "float"
+						},
+						"alpha": {
+							"type": "float"
+						},
+						"pures": {
+							"type": "float"
+						}
+					}
+				},
+				"nb_contacts": {
+					"properties": {
+						"total": {
+							"type": "float"
+						},
+						"alpha": {
+							"type": "float"
+						},
+						"pures": {
+							"type": "float"
+						}
+					}
+				}
+			}
+		},
+		"etablissements": {
+			"properties": {
+				"typo": {
+					"type": "string"
+				},
+				"no_etab": {
+					"type": "string",
+					"analyzer": "lower_keyword"
+				},
+				"coordinates": {
+					"type": "geo_point"
+				},
+				"risque": {
+					"type": "string"
+				},
+				"libelle": {
+					"type": "string",
+					"analyzer": "lower_keyword"
+				},
+				"appetence_prospect": {
+					"type": "string"
+				},
+				"rubrique_principale": {
+					"properties": {
+						"code_rubrique": {
+							"type": "string"
+						},
+						"libelle": {
+							"type": "string"
+						}
+					}
+				},
+				"rubriques": {
+					"type": "string"
+				},
+				"montants": {
+					"properties": {
+						"ts": {
+							"type": "string"
+						},
+						"site": {
+							"type": "string"
+						},
+						"display": {
+							"type": "string"
+						},
+						"search": {
+							"type": "string"
+						},
+						"print": {
+							"type": "string"
+						}
+					}
+				},
+				"parution_dep": {
+					"properties": {
+						"code_activite": {
+							"type": "string"
+						},
+						"code_departement": {
+							"type": "string"
+						},
+						"polpo": {
+							"type": "boolean"
+						},
+						"cvip": {
+							"type": "boolean"
+						},
+						"cvi": {
+							"type": "boolean"
+						},
+						"acces": {
+							"type": "boolean"
+						},
+						"lvs": {
+							"type": "boolean"
+						},
+						"ebp": {
+							"type": "boolean"
+						},
+						"lien_trans": {
+							"type": "boolean"
+						}
+					}
+				},
+				"parution_com": {
+					"properties": {
+						"code_activite": {
+							"type": "string"
+						},
+						"code_commune": {
+							"type": "string"
+						},
+						"polpo": {
+							"type": "boolean"
+						},
+						"cvip": {
+							"type": "boolean"
+						},
+						"cvi": {
+							"type": "boolean"
+						},
+						"acces": {
+							"type": "boolean"
+						},
+						"lvs": {
+							"type": "boolean"
+						},
+						"ebp": {
+							"type": "boolean"
+						},
+						"lien_trans": {
+							"type": "boolean"
+						}
+					}
+				}
+			}
+		},
+		"referentiel_activites": {
+			"properties": {
+				"code_rubrique": {
+					"type": "string",
+					"analyzer": "lower_keyword"
+				},
+				"activite": {
+					"type": "string",
+					"analyzer": "lower_keyword"
+				},
+				"zu": {
+					"type": "boolean"
+				}
+			}
+		},
+		"referentiel_communes": {
+			"properties": {
+				"code_commune": {
+					"type": "string",
+					"analyzer": "lower_keyword"
+				},
+				"libelle": {
+					"type": "string",
+					"analyzer": "lower_keyword"
+				},
+				"centroid_x": {
+					"type": "float"
+				},
+				"centroid_y": {
+					"type": "float"
+				}
+			}
+		},
+		"communes": {
+			"properties": {
+				"geometry": {
+					"type": "geo_shape"
+				},
+				"properties": {
+					"properties": {
+						"centroid_x": {
+							"type": "double"
+						},
+						"centroid_y": {
+							"type": "double"
+						},
+						"code": {
+							"type": "string"
+						},
+						"nom": {
+							"type": "string"
+						}
+					}
+				},
+				"type": {
+					"type": "string"
+				}
+			}
+		},
+		"activites_connexes": {
+			"properties": {
+				"rubrique_src": {
+					"properties": {
+						"code_activite": {
+							"type": "string"
+						},
+						"libelle": {
+							"type": "string"
+						}
+					}
+				},
+				"rubrique_connexe": {
+					"properties": {
+						"code_activite": {
+							"type": "string"
+						},
+						"libelle": {
+							"type": "string"
+						}
+					}
+				}
+			}
+		}
+	}
+}
