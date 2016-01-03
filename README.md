@@ -39,7 +39,8 @@ Pour lancer l'import de données dans Elasticsearch :
 
 
 ## Note
-Si aucun environnement virtual python (PEW) n'est paramétré, ou que python 3.4 est directement utilisé par la machine d'import, replacer "pew in $PEW_ENV python" par "python3.4" à chaque ligne de traitement.
+- Si aucun environnement virtual python (PEW) n'est paramétré, ou que python 3.4 est directement utilisé par la machine d'import, replacer "pew in $PEW_ENV python" par "python3.4" à chaque ligne de traitement.
+- Le script convert_utf8.sh permet de convertir tous les fichiers CSV au format ISO-8859-1 se trouvant dans le dossier data/ en format UTF8.
 
 
 ## Compatibilité
